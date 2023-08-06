@@ -42,7 +42,7 @@ If you are adding yourself to this log, follow these steps:
 
    Images are 40 x 40 pixels. Images can be png, jpg, or gif.
    
-5. Only add information you are comfortable sharing on this list. This is a **PUBLIC** website. You may include the following:
+5. You may include the following information:
 
     - First and last name
     - GutHub link
@@ -51,12 +51,12 @@ If you are adding yourself to this log, follow these steps:
     - Link to your portfolio
     - Profile image
     - A list of BrickMMO projects you have contributed to, you can link each project to the matching `system-about` website, for example [Flow](https://brickmmo.github.io/flow-about/)
-  
-    > **Warning**  
-    > Do NOT add your email or phone number!
 
 6. Using an existing class page as an example, add your name to each appropriate list. Link your name to your student page. For example my student page would be `students/codeadam`. Notice the `markdown` extension is not required.
 7. Submit a pull request.
+  
+> **Warning**  
+> Only add information you are comfortable sharing on this list. This is a **PUBLIC** website. Do NOT add your email or phone number!
 
 > This repo is available to view at  
 > [https://contributions.brickmmo.com](https://contributions.brickmmo.com)
