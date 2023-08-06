@@ -58,6 +58,9 @@ If you are adding yourself to this log, follow these steps:
 > **Warning**  
 > Only add information you are comfortable sharing on this list. This is a **PUBLIC** website. Do NOT add your email or phone number!
 
+> **Note**  
+> All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
+
 > This repo is available to view at  
 > [https://contributions.brickmmo.com](https://contributions.brickmmo.com)
 
