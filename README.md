@@ -24,17 +24,31 @@ project
 If you are adding yourself to this log, follow these steps:
 
 1. Fork the repo to your GitHub account.
-2. Using the existing student pages as an example, create a page named `<GITHUB_USERNAME>.markdown`. If you don't have a GitHub account, you can use you `<LINKEDIN_USERNAME>.markdown`.
-3. Only add information you are comfortable sharing on this list. This is a **PUBLIC** website. You may include the following:
+2. Using the existing student pages as an example, create a page named `<GITHUB_USERNAME>.markdown` and put it in the `students` folder. If you don't have a GitHub account, you can use you `<LINKEDIN_USERNAME>.markdown`.
+3. Add an image to the `images` folder named `<GITHUB_USERNAME>.jpg`. If you don't have a GitHub account, you can use you `<LINKEDIN_USERNAME>.png` (png, jpg, or gif). The syntax to add your image is:
+
+   ```markdown
+   ![<GITHUB_USERNAME>](images/<GITHUB_USERNAME>.jpg)
+   ```
+
+   For example, mine would look something like this:
+
+   ```markdown
+   ![codeadamca](images/codeadam.png)
+   ```
+   
+5. Only add information you are comfortable sharing on this list. This is a **PUBLIC** website. You may include the following:
 
     - First and last name
     - GutHub link
     - LinkedIn link
     - Other social links (Instagram, Twitter, Flickr, LinkTree, YouTube)
     - Link to your portfolio
+    - Profile image
+    - A list of BrickMMO projects you have contributed to, you can link each project to the matching `system-about` website, for example [Flow](https://brickmmo.github.io/flow-about/)
 
-5. Using an existing class page as an example, add your name to each appropriate list. Link your name to your student page. For example my student page would be `students/codeadam`. Notice the `markdown` extension is not required.
-6. Submit a pull request. 
+6. Using an existing class page as an example, add your name to each appropriate list. Link your name to your student page. For example my student page would be `students/codeadam`. Notice the `markdown` extension is not required.
+7. Submit a pull request.
 
 > This repo is available to view at  
 > [https://contributions.brickmmo.com](https://contributions.brickmmo.com)
