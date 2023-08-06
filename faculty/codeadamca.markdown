@@ -8,9 +8,11 @@ Portfolio: https://codeadam.ca/
 GitHub: [codeadamca](https://github.com/codeadamca)  
 LinkedIn: [adambenjaminthomas](https://www.linkedin.com/in/adambenjaminthomas/)  
 LinkTree: [codeadamca](https://linktr.ee/codeadamca)
+Instagram: [codeadamca](https://www.instagram.com/codeadamca/)
+Twitter: [codeadamca](https://twitter.com/codeadamca)
 
 ### Projects
 
-| Project |  |
+| Project | |
 | - | - |
 | Flow | https://github.com/BrickMMO/flow-about |
