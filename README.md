@@ -19,8 +19,8 @@ project
 │   │   codeadamca.markdown
 |
 └── images
-    | codeadam.png
-    | thomasadam83.png
+    |   codeadam.png
+    |   thomasadam83.png
 ```
 
 If you are adding yourself to this log, follow these steps:
