@@ -13,9 +13,11 @@ project
 │   2024-winter-http5111.markdown
 │
 └── students
-│   │   codeadamca.markdown
 │   │   thomasadam83.markdown
 │
+└── faculty
+│   │   codeadamca.markdown
+|
 └── images
     | codeadam.png
     | thomasadam83.png
