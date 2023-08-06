@@ -52,6 +52,7 @@ If you are adding yourself to this log, follow these steps:
     - Profile image
     - A list of BrickMMO projects you have contributed to, you can link each project to the matching `system-about` website, for example [Flow](https://brickmmo.github.io/flow-about/)
   
+    > **Warning**  
     > Do NOT add your email or phone number!
 
 6. Using an existing class page as an example, add your name to each appropriate list. Link your name to your student page. For example my student page would be `students/codeadam`. Notice the `markdown` extension is not required.
