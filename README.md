@@ -27,7 +27,7 @@ If you are adding yourself to this log, follow these steps:
 
 1. Fork the repo to your GitHub account.
 2. Using the existing student pages as an example, create a page named `<GITHUB_USERNAME>.markdown` and put it in the `students` folder. If you don't have a GitHub account, you can use `<LINKEDIN_USERNAME>.markdown`. For example my page would be named `codeadam.markdown`.
-3. Add an image to the `images` folder named `<GITHUB_USERNAME>.jpg`. If you don't have a GitHub account, you can use you `<LINKEDIN_USERNAME>.png` (png, jpg, or gif). For example mine would be `codeadam.png`. The syntax to add your image to your page is:
+3. Add an image to the `images` folder named `<GITHUB_USERNAME>.jpg`. If you don't have a GitHub account, you can use you `<LINKEDIN_USERNAME>.png`. Images can be png, jpg, or gif. The syntax to add your image to your page is:
 
    ```markdown
    ![<GITHUB_USERNAME>](images/<GITHUB_USERNAME>.jpg)
