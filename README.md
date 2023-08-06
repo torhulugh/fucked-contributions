@@ -8,6 +8,7 @@ Files are organized using the following folder and file structure:
 project
 │   README.md
 │   index.markdown
+|   2023-summer-research.markdown
 │   2023-winter-http5310.markdown
 │   2023-fall-http5111.markdown
 │   2024-winter-http5111.markdown
