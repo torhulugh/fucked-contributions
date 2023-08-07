@@ -16,3 +16,12 @@ Twitter: [codeadamca](https://twitter.com/codeadamca)
 | Project | |
 | - | - |
 | Flow | [https://github.com/BrickMMO/flow-about](https://github.com/BrickMMO/flow-about) |
+
+
+[&#10132; Back to Class List](/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>

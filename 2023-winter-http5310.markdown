@@ -11,3 +11,12 @@
 | | Name | Profile | 
 | - | - | - |
 | ![Andrew Barker](images/andrewjamesbarker.png) | Andrew Barker | [andrewjamesbarker](AndrewJamesBarker.markdown) |
+
+
+[&#10132; Back to Class List](/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
