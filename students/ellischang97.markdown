@@ -1,12 +1,12 @@
 ## Ellis Change
 
-![Ellis Change](../images/allischang97.png)
+![Ellis Change](../images/ellischang97.png)
 
 Currently a full-stack web development student at Humber College, I have experience creating dynamic web pages using technologies such as Javascript, HTML, CSS, PHP, C#, MERN stack, and SQL. I am looking forward to connecting with passionate individuals and expanding my knowledge/experience in this exciting field.
 
 Portfolio: [https://ellischang.com/](https://ellischang.com/)  
 LinkedIn: [ellis-chang-82b04ba3](https://www.linkedin.com/in/ellis-chang-82b04ba3/)  
-GitHub: [EllisChang97](https://www.linkedin.com/in/ellis-chang-82b04ba3/)  
+GitHub: [EllisChang97](https://github.com/EllisChang97)  
 
 ### Projects
 
