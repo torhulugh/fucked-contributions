@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Udip Mandora
 
 ![Udip Mandora](../images/udipmandora.png)
