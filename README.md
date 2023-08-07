@@ -26,9 +26,16 @@ project
 
 If you are adding yourself to this log, follow these steps:
 
-1. Fork the repo to your GitHub account.
-2. Using the existing student pages as an example, create a page named `<GITHUB_USERNAME>.markdown` and put it in the `students` folder. If you don't have a GitHub account, you can use `<LINKEDIN_USERNAME>.markdown`. For example my page would be named `codeadam.markdown`.
-3. Add an image to the `images` folder named `<GITHUB_USERNAME>.jpg`. If you don't have a GitHub account, you can use you `<LINKEDIN_USERNAME>.png`. The syntax to add your image to your page is:
+1. Fork this repo to your GitHub account.
+2. Clone your new repo to your computer.
+
+    ```sh
+    git clone https://github.com/BrickMMO/contributions.git
+    cd contributions
+    ```
+    
+3. Using an existing student pages as an example, create a page named `<GITHUB_USERNAME>.markdown` and put it in the `students` folder. If you don't have a GitHub account, you can use `<LINKEDIN_USERNAME>.markdown`. For example my page would be named `codeadam.markdown`.
+4. Add an image to the `images` folder named `<GITHUB_USERNAME>.jpg`. If you don't have a GitHub account, you can use you `<LINKEDIN_USERNAME>.png`. The syntax to add your image to your page is:
 
    ```markdown
    ![<GITHUB_USERNAME>](images/<GITHUB_USERNAME>.jpg)
@@ -42,7 +49,7 @@ If you are adding yourself to this log, follow these steps:
 
    Images are 80 x 80 pixels. Images can be png, jpg, or gif.
    
-5. You may include the following information:
+5. Add your information to your new page. You might want to include the following information:
 
     - First and last name
     - GutHub link
@@ -61,6 +68,11 @@ If you are adding yourself to this log, follow these steps:
    ```
    
 7. Using an existing class page as an example, add your name to each appropriate list. Link your name to your student page. For example my student page would be `students/codeadam`. Notice the `markdown` extension is not required.
+
+    ```markdown
+    | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](students/codeadamca) |
+    ```
+    
 8. Submit a pull request.
   
 > **Warning**  
