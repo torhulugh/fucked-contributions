@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Shavin Singh
 
 ![Shavin Singh](../images/singhmansingh.png)
