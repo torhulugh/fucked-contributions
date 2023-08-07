@@ -10,7 +10,7 @@
 
 | | Name | Profile | 
 | - | - | - |
-
+| ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 
 
 [&#10132; Back to Class List](/)
