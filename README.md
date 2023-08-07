@@ -35,6 +35,13 @@ If you are adding yourself to this log, follow these steps:
     ```
     
 3. Using an existing student pages as an example, create a page named `<GITHUB_USERNAME>.markdown` and put it in the `students` folder. If you don't have a GitHub account, you can use `<LINKEDIN_USERNAME>.markdown`. For example my page would be named `codeadam.markdown`.
+
+    > You can check our my page as an example:  
+    > [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca)
+
+    > Or you can view the Markdown here:  
+    > [https://github.com/BrickMMO/contributions/blob/main/faculty/codeadamca.markdown](https://github.com/BrickMMO/contributions/blob/main/faculty/codeadamca.markdown)
+
 4. Add an image to the `images` folder named `<GITHUB_USERNAME>.jpg`. If you don't have a GitHub account, you can use you `<LINKEDIN_USERNAME>.png`. The syntax to add your image to your page is:
 
    ```markdown
