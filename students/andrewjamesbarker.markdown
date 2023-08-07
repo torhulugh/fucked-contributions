@@ -1,4 +1,4 @@
-## Adam Thomas
+## Andrew Barker
 
 ![Andrew Barker](../images/andrewjamesbarker.png)
 
@@ -7,6 +7,7 @@ Junior Full Stack Developer and Musician. Previously employed as a Guitar Teache
 Portfolio: [https://abarksbytes.com/](https://abarksbytes.com/)  
 LinkedIn: [andrew-james-barker](https://www.linkedin.com/in/andrew-james-barker/)  
 Twitter: [abarkshighhorse](https://twitter.com/abarkshighhorse)  
+GitHub: [AndrewJamesBarker](https://github.com/AndrewJamesBarker)  
 
 ### Projects
 
