@@ -50,10 +50,18 @@ If you are adding yourself to this log, follow these steps:
     - Other social links (Instagram, Twitter, Flickr, LinkTree, YouTube)
     - Link to your portfolio
     - Profile image
-    - A list of BrickMMO projects you have contributed to, you can link each project to the matching `system-about` website, for example [Flow](https://brickmmo.github.io/flow-about/)
 
-6. Using an existing class page as an example, add your name to each appropriate list. Link your name to your student page. For example my student page would be `students/codeadam`. Notice the `markdown` extension is not required.
-7. Submit a pull request.
+6. Add a table with a list of BrickMMO projects you have contributed to. Look at other contributor pages for an example. At this point just include the `Tasks` project:
+
+   ```markdown
+   | Project |                                                                                  |
+   | ------- | -------------------------------------------------------------------------------- |
+   | Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
+   | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
+   ```
+   
+7. Using an existing class page as an example, add your name to each appropriate list. Link your name to your student page. For example my student page would be `students/codeadam`. Notice the `markdown` extension is not required.
+8. Submit a pull request.
   
 > **Warning**  
 > Only add information you are comfortable sharing on this list. This is a **PUBLIC** website. Do NOT add your email or phone number!
