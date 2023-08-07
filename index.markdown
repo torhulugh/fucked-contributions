@@ -1,5 +1,7 @@
 # contributions
 
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 This website is a log of every contributor to the [BrickMMO](https://brickmmo.com) project. 
 
 ## [Workshops in Web Development 1 - HTTP5114 - Fall 2023](2023-fall-http5114)
