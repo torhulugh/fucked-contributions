@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Capstone - HTTP5310 - Summer 2023
 
 ### Students
