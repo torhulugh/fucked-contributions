@@ -7,9 +7,9 @@ I Teach Code! Self-taught full-stack developer. Learning code and teaching code 
 Portfolio: [https://codeadam.ca/](https://codeadam.ca/)  
 GitHub: [codeadamca](https://github.com/codeadamca)  
 LinkedIn: [adambenjaminthomas](https://www.linkedin.com/in/adambenjaminthomas/)  
-LinkTree: [codeadamca](https://linktr.ee/codeadamca)
-Instagram: [codeadamca](https://www.instagram.com/codeadamca/)
-Twitter: [codeadamca](https://twitter.com/codeadamca)
+LinkTree: [codeadamca](https://linktr.ee/codeadamca)  
+Instagram: [codeadamca](https://www.instagram.com/codeadamca/)  
+Twitter: [codeadamca](https://twitter.com/codeadamca)  
 
 ### Projects
 
