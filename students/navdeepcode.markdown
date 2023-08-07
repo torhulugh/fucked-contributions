@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Navdeep Kaur
 
 ![Navdeep Kaur](../images/navdeepcode.png)
