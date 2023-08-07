@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Ellis Change
 
 ![Ellis Change](../images/ellischang97.png)
