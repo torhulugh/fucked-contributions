@@ -11,7 +11,7 @@ GitHub: [Udip-Mandora](https://github.com/Udip-Mandora)
 
 | Project | |
 | - | - |
-| GPSColours | [https://github.com/BrickMMO/colours-about](https://github.com/BrickMMO/colours-about) |
+| Colours | [https://brickmmo.github.io/colours-about/](https://brickmmo.github.io/colours-about/) |
 
 [&#10132; Back to Class List](/)
 

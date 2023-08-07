@@ -12,7 +12,7 @@ GitHub: [Sonnto](https://github.com/Sonnto)
 
 | Project | |
 | - | - |
-| Pixelatte | [https://github.com/BrickMMO/pixelatte-about](https://github.com/BrickMMO/pixelatte-about) |
+| Pixelatte | [https://brickmmo.github.io/pixelatte-about/](https://brickmmo.github.io/pixelatte-about/) |
 
 [&#10132; Back to Class List](/)
 

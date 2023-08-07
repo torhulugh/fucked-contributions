@@ -12,7 +12,7 @@ GitHub: [EllisChang97](https://github.com/EllisChang97)
 
 | Project | |
 | - | - |
-| GPS | [https://github.com/BrickMMO/gps-about](https://github.com/BrickMMO/gps-about) |
+| GPS | [https://brickmmo.github.io/gps-about/](https://brickmmo.github.io/gps-about/) |
 
 [&#10132; Back to Class List](/)
 

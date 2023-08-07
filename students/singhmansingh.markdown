@@ -12,7 +12,7 @@ GitHub: [singhmansingh](https://github.com/singhmansingh)
 
 | Project | |
 | - | - |
-| Radio | [https://github.com/BrickMMO/radio-about](https://github.com/BrickMMO/radio-about) |
+| Radio | [https://brickmmo.github.io/radio-about/](https://brickmmo.github.io/radio-about/) |
 
 [&#10132; Back to Class List](/)
 
