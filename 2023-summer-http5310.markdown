@@ -4,10 +4,10 @@
 
 | | Name | Profile | 
 | - | - | - |
-| ![Andrew Barker](images/andrewjamesbarker.png) | Andrew Barker | [andrewjamesbarker](andrewjamesbarker.markdown) |
+| ![Andrew Barker](images/andrewjamesbarker.png) | Andrew Barker | [AndrewJamesBarker](andrewjamesbarker.markdown) |
 | ![Bassil Younes](images/byounes123321.png) | Bassil Younes | [Byounes123321](byounes123321.markdown) |
-| ![Ellis Chang](images/ellischang97.png) | Ellis Chang | [ellischang97](ellischang97.markdown) |
-| ![Andrew Barker](images/andrewjamesbarker.png) | Andrew Barker | [andrewjamesbarker](AndrewJamesBarker.markdown) |
+| ![Ellis Chang](images/ellischang97.png) | Ellis Chang | [EllisChang97](ellischang97.markdown) |
+| ![Anthony Ho](images/sonnto.png) | Andrew Barker | [Sonnto](sonnto.markdown) |
 | ![Andrew Barker](images/andrewjamesbarker.png) | Andrew Barker | [andrewjamesbarker](AndrewJamesBarker.markdown) |
 | ![Andrew Barker](images/andrewjamesbarker.png) | Andrew Barker | [andrewjamesbarker](AndrewJamesBarker.markdown) |
 | ![Andrew Barker](images/andrewjamesbarker.png) | Andrew Barker | [andrewjamesbarker](AndrewJamesBarker.markdown) |
