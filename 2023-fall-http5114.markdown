@@ -1,17 +1,16 @@
 ## Workshops in Web Development 1 - HTTP5114 - Fall 2023
 
-### Faculty
-
-| | Name | Profile | 
-| - | - | - |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-
 ### Students
 
 | | Name | Profile | 
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 
+### Faculty
+
+| | Name | Profile | 
+| - | - | - |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
 
 [&#10132; Back to Class List](/)
 
