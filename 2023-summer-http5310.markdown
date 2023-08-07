@@ -10,7 +10,7 @@
 | ![Anthony Ho](images/sonnto.png) | Andrew Barker | [sonnto](students/sonnto.markdown) |
 | ![Udip Mandora](images/udipmandora.png) | Udip Mandora | [udipmandora](students/udipmandora.markdown) |
 | ![Navdeep Kaur Barker](images/navdeepcode.png) | Navdeep Kaur | [navdeepcode](students/navdeepcode.markdown) |
-| ![Andrew Barker](images/andrewjamesbarker.png) | Andrew Barker | [andrewjamesbarker](students/AndrewJamesBarker.markdown) |
+| ![Beatrice Tan](images/beartisan.png) | Beatrice Tan | [beartisan](students/beartisan.markdown) |
 | ![Andrew Barker](images/andrewjamesbarker.png) | Andrew Barker | [andrewjamesbarker](students/AndrewJamesBarker.markdown) |
 
 ### Faculty
