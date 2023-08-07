@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Beatrice Tan
 
 ![Beatrice Tan](../images/beartisan.png)
