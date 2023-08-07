@@ -40,7 +40,7 @@ If you are adding yourself to this log, follow these steps:
    ![codeadamca](images/codeadam.png)
    ```
 
-   Images are 40 x 40 pixels. Images can be png, jpg, or gif.
+   Images are 80 x 80 pixels. Images can be png, jpg, or gif.
    
 5. You may include the following information:
 

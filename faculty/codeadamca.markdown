@@ -1,10 +1,10 @@
 ## Adam Thomas
 
-![Adam Thomas](../images/codeadamca.jpg)
+![Adam Thomas](../images/codeadamca.png)
 
 I Teach Code! Self-taught full-stack developer. Learning code and teaching code at Humber College, Toronto, Canada.
 
-Portfolio: https://codeadam.ca/  
+Portfolio: [https://codeadam.ca/](https://codeadam.ca/)  
 GitHub: [codeadamca](https://github.com/codeadamca)  
 LinkedIn: [adambenjaminthomas](https://www.linkedin.com/in/adambenjaminthomas/)  
 LinkTree: [codeadamca](https://linktr.ee/codeadamca)
@@ -15,4 +15,4 @@ Twitter: [codeadamca](https://twitter.com/codeadamca)
 
 | Project | |
 | - | - |
-| Flow | https://github.com/BrickMMO/flow-about |
+| Flow | [https://github.com/BrickMMO/flow-about](https://github.com/BrickMMO/flow-about) |
