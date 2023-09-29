@@ -2,7 +2,7 @@
 
 ## Yousuf Abbas
 
-![Yousuf Abbas](../images/yousuf.jpg)
+![Yousuf Abbas](../images/skinnygoose.jpg)
 
 Aspiring full-stack developer based in Toronto.
 
