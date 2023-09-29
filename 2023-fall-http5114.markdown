@@ -7,7 +7,7 @@
 | | Name | Profile | 
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
-| ![Ederes Gure](images/jaalle1.jpg) | Ederes Gure | [jaalle1](students/jaalle1) |
+| ![Ederes Gure](images/jaalle1.jpg) | Ederes Gure | [jaalle1](students/jaalle1.markdown) |
 
 ### Faculty
 
