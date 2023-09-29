@@ -6,7 +6,7 @@
 
 | | Name | Profile | 
 | - | - | - |
-| ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
+| ![Deep Patel](images/Deep291998.jpg) | First Last | [Deep Patel](students/Deep291998.markdown) |
 
 ### Faculty
 
