@@ -13,7 +13,7 @@ Stack Overflow: [karscott6](https://stackoverflow.com/users/22524549/karscott6)
 
 | Project | |
 | - | - |
-| BrickMMO: Tasks | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/) |
+| Tasks | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/) |
 
 [&#10132; Back to Class List](/)
 
