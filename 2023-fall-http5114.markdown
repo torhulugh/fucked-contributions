@@ -4,10 +4,11 @@
 
 ### Students
 
-
-|                                                   | Name        | Profile                                                |
-| ------------------------------------------------- | ----------- | ------------------------------------------------------ |
-| ![Adam Thomas](images/thomasadam83.jpg)           | Adam Thomas | [adamthomas83](students/adamthomas83)                  |
+|                                          | Name        | Profile                                      |
+| ---------------------------------------- | ----------- | -------------------------------------------- |
+| ![First Last](images/codeadamca.png)     | First Last  | [firstlast](students/firstlast)              |
+| ![Adam Thomas](images/thomasadam83.jpg)  | Adam Thomas | [adamthomas83](students/adamthomas83)        |
+| ![Lap Wang Wong](images/leonwongdev.jpg) | Adam Thomas | [leonwongdev](students/leonwongdev.markdown) |
 | ![Jiabao Ding](images/Github-DingdingToronto.jpg) | Jiabao Ding | [jiabaoding](students/GIthub_DingdingToronto.markdown) |
 | ![Deep Patel](images/Deep291998.jpg) | First Last | [Deep Patel](students/Deep291998.markdown) |
 | ![First Last](images/codeadamca.png)   | First Last    | [firstlast](students/firstlast)              |
