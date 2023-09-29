@@ -8,6 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
+| ![Bailey Liang](images/bliang1997.png) | Bailey Liang | [bliang1997](students/bliang1997) |
 
 ### Faculty
 
