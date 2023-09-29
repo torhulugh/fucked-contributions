@@ -4,16 +4,18 @@
 
 ### Students
 
-| | Name | Profile | 
-| - | - | - |
-| ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
-| ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
+|                                         | Name         | Profile                               |
+| --------------------------------------- | ------------ | ------------------------------------- |
+| ![First Last](images/codeadamca.png)    | First Last   | [firstlast](students/firstlast)       |
+| ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas  | [adamthomas83](students/adamthomas83) |
+| ![Abbas Vaziri](images/abiasV.jpg)      | Abbas Vaziri | [AbiasV](students/AbiasV.markdown)    |
 
 ### Faculty
 
-| | Name | Profile | 
-| - | - | - |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+|                                       | Name         | Profile                            |
+| ------------------------------------- | ------------ | ---------------------------------- |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas  | [codeadamca](faculty/codeadamca)   |
+| ![Abbas Vaziri](images/abiasV.jpg)    | Abbas Vaziri | [abiasV](students/AbiasV.markdown) |
 
 [&#10132; Back to Class List](/)
 
