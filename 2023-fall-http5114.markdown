@@ -15,7 +15,7 @@
 |                                       | Name         | Profile                            |
 | ------------------------------------- | ------------ | ---------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas  | [codeadamca](faculty/codeadamca)   |
-| ![Abbas Vaziri](images/abiasV.jpg)    | Abbas Vaziri | [abiasV](students/AbiasV.markdown) |
+| ![Abbas Vaziri](images/abiasV.jpg)     | Abbas Vaziri | [abiasV](students/AbiasV.markdown) |
 
 [&#10132; Back to Class List](/)
 
