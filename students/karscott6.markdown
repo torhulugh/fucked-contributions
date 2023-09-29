@@ -6,7 +6,7 @@
 
 Self-taught to this point. Formally working towards become a Full Stack Developer.
 
-GitHub: [karscott6](https://github.com/karscott6)
+GitHub: [karscott6](https://github.com/karscott6)  
 Stack Overflow: [karscott6](https://stackoverflow.com/users/22524549/karscott6)  
 
 ### Projects
