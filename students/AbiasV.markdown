@@ -2,7 +2,7 @@
 
 ## Abbas Vaziri
 
-![Abbas Vaziri](../images/AbiasV.jpg)
+![Abbas Vaziri](/images/AbiasV.jpg)
 
 My name is Abbas Vaziri
 
