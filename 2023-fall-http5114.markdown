@@ -4,14 +4,15 @@
 
 ### Students
 
-| | Name | Profile | 
-| - | - | - |
-| ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
+|                                        | Name          | Profile                                      |
+| -------------------------------------- | ------------- | -------------------------------------------- |
+| ![First Last](images/codeadamca.png)   | First Last    | [firstlast](students/firstlast)              |
+| ![Kaverappa K U](images/Kaverappa.png) | Kaverappa K U | [KaverappaKU](students/kaverappaKU.markdown) |
 
 ### Faculty
 
-| | Name | Profile | 
-| - | - | - |
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
 
 [&#10132; Back to Class List](/)
