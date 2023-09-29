@@ -8,6 +8,9 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
+| ![Fazhrul Sadip](images/sadipnsu.jpg) | Fazhrul Sadip | [adamthomas83](students/sadipnsu.markdown) |
+
+
 
 ### Faculty
 

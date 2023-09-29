@@ -3,7 +3,7 @@
 
 ## FAZHRUL SADIP
 
-![Navdeep Kaur](../images/sadipnsu.jpg)
+![Fazhrul Sadip](../images/sadipnsu.jpg)
 
 In this technical era, I am giving myself time and have taken opportunities to enhance my skills in web development. I have done my bachelor's in Computer Science and now pursuing web development course at Humber College.
 
