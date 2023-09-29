@@ -16,6 +16,7 @@
 | ![Shrey Patel](images/shreynpatel23.jpg) | Shrey Patel | [shreyPatel](students/shreynpatel23.markdown) |
 | ![Hannah Quintos](images/hannahquintos.jpg) | Hannah Quintos | [hannahquintos](students/hannahquintos) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
+| ![Diego Rivera](images/diegoarivera35.png) | Diego Rivera | [diegoarivera35](students/diegoarivera35) |
 | ![Priyam Desai](images/priyam.png) | Priyam Desai | [priyam-desai](students/priyam-desai.markdown) |
 
 
