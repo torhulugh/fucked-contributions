@@ -7,6 +7,7 @@
 | | Name | Profile | 
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
+| ![Hannah Quintos](images/hannahquintos.jpg) | Hannah Quintos | [hannahquintos](students/hannahquintos) |
 
 ### Faculty
 
