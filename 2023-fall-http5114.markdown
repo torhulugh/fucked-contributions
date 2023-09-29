@@ -7,6 +7,7 @@
 | | Name | Profile | 
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
+| ![Shrey Patel](images/shreynpatel23.jpg) | Shrey Patel | [shreyPatel](students/shreynpatel23.markdown) |
 
 ### Faculty
 
