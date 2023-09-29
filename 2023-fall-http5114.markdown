@@ -7,12 +7,14 @@
 | | Name | Profile | 
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
+| ![Sarah Tadele](images/sarahtee.jpg) | Sarah Tadele | [SarahTadele](students/firstlast) |
+
 
 ### Faculty
 
 | | Name | Profile | 
 | - | - | - |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/sarahteee) |
 
 [&#10132; Back to Class List](/)
 
