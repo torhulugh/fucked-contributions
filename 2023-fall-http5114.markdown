@@ -8,12 +8,14 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Hannah Quintos](images/hannahquintos.jpg) | Hannah Quintos | [hannahquintos](students/hannahquintos) |
+| ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
 
 ### Faculty
 
 | | Name | Profile | 
 | - | - | - |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Kyle Scott](images/karscott6.jpg) | Kyle Scott | [karscott6](students/karscott6.markdown) |
 
 [&#10132; Back to Class List](/)
 
