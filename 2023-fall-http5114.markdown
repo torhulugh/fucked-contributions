@@ -8,7 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
-| ![Jaskaran Kaur](images/jas.jpg)| Jaskaran Kaur | [Jaskaran Kaur](students/Jaskaran009)
+| ![Jaskaran Kaur](images/jas.jpg)| Jaskaran Kaur | [Jaskaran Kaur](./students/Jaskaran009.markdown)
 
 ### Faculty
 
