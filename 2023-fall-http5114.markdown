@@ -8,7 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
-| ![Yousuf Abbas](images/yousuff.jpg) | Yousuf Abbas | [Yousufabbas](students/YousufAbbas) |
+| ![Yousuf Abbas](images/skinnygoose.jpg) | Yousuf Abbas | [Yousufabbas](students/skinnygoose) |
 
 ### Faculty
 
