@@ -14,5 +14,5 @@ GitHub: [Pruthviraj7](https://github.com/Pruthviraj7)
 
 | Project | |
 | - | - |
-| Pixelatte | [https://brickmmo.github.io/pixelatte-about/](https://brickmmo.github.io/pixelatte-about/) |
+| Tasks | https://tasks.brickmmo.com/ |
 
