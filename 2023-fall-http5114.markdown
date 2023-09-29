@@ -8,6 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Shrey Patel](images/shreynpatel23.jpg) | Shrey Patel | [shreyPatel](students/shreynpatel23.markdown) |
+| ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
 
 ### Faculty
 
