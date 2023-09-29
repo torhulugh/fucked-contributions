@@ -8,7 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
-| ![Sion Lee](images/sionlee.jpg) | Sion Lee | [Sion Lee](students/sionara.markdown) |
+| ![Sion Lee](images/sionara.jpg) | Sion Lee | [Sion Lee](students/sionara.markdown) |
 
 ### Faculty
 
