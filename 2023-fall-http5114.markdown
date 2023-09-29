@@ -12,10 +12,9 @@
 
 ### Faculty
 
-|                                       | Name         | Profile                            |
-| ------------------------------------- | ------------ | ---------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas  | [codeadamca](faculty/codeadamca)   |
-| ![Abbas Vaziri](images/abiasV.jpg)     | Abbas Vaziri | [abiasV](students/AbiasV.markdown) |
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
 
 [&#10132; Back to Class List](/)
 
