@@ -8,7 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
-| ![Hanna George](images/hannah2898.jpg) | Hanna George | [hannah2898](./students/hannah2898) |
+| ![Hanna George](images/hannah2898.jpg) | Hanna George | [hannah2898](students/hannah2898.markdown) |
 ### Faculty
 
 | | Name | Profile | 
