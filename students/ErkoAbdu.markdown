@@ -12,3 +12,9 @@ Github: [ErkoAbdu](https://github.com/ErkoAbdu)
 | Project | |
 | - | - |
 | Tasks | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/) |
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
