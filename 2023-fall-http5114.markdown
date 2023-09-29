@@ -7,12 +7,14 @@
 | | Name | Profile | 
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
+| ![Owen Laing](images/code-owen.png) | Owen Laing | [Owen Laing](https://github.com/code-owen) |
 
 ### Faculty
 
 | | Name | Profile | 
 | - | - | - |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+
 
 [&#10132; Back to Class List](/)
 
