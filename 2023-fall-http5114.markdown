@@ -7,6 +7,8 @@
 | | Name | Profile | 
 | - | - | - |
 | ![Ashim Shrestha](images/ashimshrestha.jpg) | Ashim Shrestha | [ashimshrestha](students/AshimStha.markdown) |
+| ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
+| ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
 
 ### Faculty
 
