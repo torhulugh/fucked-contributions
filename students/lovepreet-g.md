@@ -1,5 +1,5 @@
 ### Hi there, I'm Lovepreet Singh 👋
-[Lovepreet Singh](images/lovepreet-g.jpg)
+![Lovepreet Singh](images/lovepreet-g.jpg)
 
 I'm a passionate web developer with a strong educational background in web development. Currently, pursuing  Postgraduate degree in Web Development from Humber College. My journey into the world of web development has been an exciting one, and I'm constantly learning and exploring new technologies to enhance my skills.
 
