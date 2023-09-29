@@ -13,11 +13,10 @@ GitHub: [hannah2898](https://github.com/hannah2898)
 ### Projects
 
 | Project | -------------------------------------------------------------------------------- |
-                                                                              
 | ------- | -------------------------------------------------------------------------------- |
 | Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
 | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
-| GPS     | [https://brickmmo.github.io/gps-about/](https://brickmmo.github.io/gps-about/) |
+| GPS     | [https://brickmmo.github.io/gps-about/](https://brickmmo.github.io/gps-about/)   |
 
 [&#10132; Back to Class List](/)
 
