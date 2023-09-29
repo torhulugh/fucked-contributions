@@ -13,6 +13,7 @@
 | | Name | Profile | 
 | - | - | - |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Kyle Scott](images/karscott6.jpg) | Kyle Scott | [karscott6](students/karscott6) |
 
 [&#10132; Back to Class List](/)
 
