@@ -7,6 +7,7 @@
 | | Name | Profile | 
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
+| ![Suyash Kulkarni](images/Suyash0028.png) | Suyash Kulkarni | [suyashkulkarni](students/Suyash0028) |
 
 ### Faculty
 
