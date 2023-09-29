@@ -8,7 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
-| ![Erko Abdurahman](images/ErkoAbdu.jpeg) | Erko Abdurahman | [ErkoAbdurahman](students/ErkoAbdu.markdown) |
+| ![Erko Abdurahman](images/ErkoAbdu.jpg) | Erko Abdurahman | [ErkoAbdu](students/ErkoAbdu.markdown) |
 
 ### Faculty
 
