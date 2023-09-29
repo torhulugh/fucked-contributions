@@ -2,7 +2,7 @@
 
 ## Sion Lee
 
-![Sion Lee](../images/sionlee.jpg)
+![Sion Lee](../images/sionara.jpg)
 
 Aspiring Full-stack developer. Like to be active and get my hands dirty, both in code and IRL. Food is the way to my heart.
 
@@ -17,8 +17,7 @@ GitHub: [My Github: ](https://github.com/AndrewJamesBarker)
 | Flow | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/)|
 | Tasks | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)   |
 
-| ![Sion Lee](images/sionlee.jpg) | Sion Lee | [Sion Lee](students/sionara.markdown) |
-
+[&#10132; Back to Class List](/)
 
 ---
 
