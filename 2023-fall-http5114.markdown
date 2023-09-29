@@ -8,6 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
+| ![Diego Rivera](images/diegoarivera35.png) | Diego Rivera | [diegoarivera35](students/diegoarivera35) |
 
 ### Faculty
 
