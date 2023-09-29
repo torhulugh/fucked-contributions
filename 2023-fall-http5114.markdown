@@ -4,15 +4,16 @@
 
 ### Students
 
-| | Name | Profile | 
-| - | - | - |
-| ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
-| ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
+|                                                   | Name        | Profile                                                |
+| ------------------------------------------------- | ----------- | ------------------------------------------------------ |
+| ![First Last](images/codeadamca.png)              | First Last  | [firstlast](students/firstlast)                        |
+| ![Adam Thomas](images/thomasadam83.jpg)           | Adam Thomas | [adamthomas83](students/adamthomas83)                  |
+| ![Jiabao Ding](images/Github-DingdingToronto.jpg) | Jiabao Ding | [jiabaoding](students/GIthub_DingdingToronto.markdown) |
 
 ### Faculty
 
-| | Name | Profile | 
-| - | - | - |
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
 
 [&#10132; Back to Class List](/)
