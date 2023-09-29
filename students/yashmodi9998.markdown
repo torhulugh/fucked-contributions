@@ -2,7 +2,7 @@
 
 ## Yash Modi
 
-![Yash Modi](../images/yashmodi9998.jpeg)
+![Yash Modi](../images/yashmodi9998.jpg)
 
 I’m currently studying Web Development at Humber College, Toronto, Canada.
 
