@@ -6,7 +6,7 @@
 
 | | Name | Profile | 
 | - | - | - |
-| ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
+| ![Melissa De Leon](/images/mel-deleon-23.jpg) | Melissa De Leon | [firstlast](/students/mel-deleon-23.markdown) |
 
 ### Faculty
 
