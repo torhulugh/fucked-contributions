@@ -8,7 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
-| ![Yash Modi](images/yashmodi9998.jpg) | Yash Modi | [yashmodi9998](students/yashmodi9998) |
+| ![Yash Modi](images/yashmodi9998.jpeg) | Yash Modi | [yashmodi9998](students/yashmodi9998) |
 
 ### Faculty
 
