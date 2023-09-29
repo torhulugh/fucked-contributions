@@ -4,7 +4,7 @@
 
 ![Kyle Scott](../images/karscott6.jpg)
 
-Self-taught to this point. Formally working towards become a Full Stack Developer.
+Self-taught to this point. Formerly construction, sales and delivery. Working towards a second career in Full Stack Web Development.
 
 GitHub: [karscott6](https://github.com/karscott6)  
 Stack Overflow: [karscott6](https://stackoverflow.com/users/22524549/karscott6)  
