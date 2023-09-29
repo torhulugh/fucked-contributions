@@ -10,7 +10,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
-| ![Surbhi Singhania](images/SurbhiSinghania13.jpeg) | Surbhi Singhania | [surbhisinghania](../students/SurbhiSinghania13) |
+| ![Surbhi Singhania](images/SurbhiSinghania13.jpeg) | Surbhi Singhania | [surbhisinghania](students/SurbhiSinghania13) |
 
 ### Faculty
 
