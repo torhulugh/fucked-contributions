@@ -8,7 +8,7 @@
 | - | - | - |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
 | ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
-| ![Pruthvirajsinh Solanki](images/Pruthviraj7.jpg) | Pruthvirajsinh Solanki | [Pruthviraj7](students/Pruthviraj7) |
+| ![Pruthvirajsinh Solanki](images/Pruthviraj7.jpg) | Pruthvirajsinh Solanki | [Pruthviraj7](students/Pruthviraj7.markdown) |
 ### Faculty
 
 | | Name | Profile | 
