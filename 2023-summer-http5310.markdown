@@ -14,7 +14,7 @@
 | ![Shavin Singh](images/singhmansingh.png) | Shavin Singh | [singhmansingh](students/singhmansingh.markdown) |
 | ![Beatrice Tan](images/beartisan.png) | Beatrice Tan | [beartisan](students/beartisan.markdown) |
 | ![Bassil Younes](images/byounes123321.png) | Bassil Younes | [byounes123321](students/byounes123321.markdown) |
-| ![Priyam Desai](images/priyam.png) | Priyam Desai | [priyam-desai](students/priyam-desai.markdown) |
+
 
 ### Faculty
 

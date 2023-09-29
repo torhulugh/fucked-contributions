@@ -15,7 +15,7 @@ Currently, I am pursuing Web Development course at Humber College. I am new to C
 | Title | URL | Technology |
 | ----- | --- | ---------- |
 | I don't know what to eat | [Project Link](heyhello.com) | html, css, js |
-| Fake project | [Project Link](hey-hello.com) | js |
+| Task | [Project Link](https://tasks.brickmmo.com/) | js |
 
 ## Education
 
