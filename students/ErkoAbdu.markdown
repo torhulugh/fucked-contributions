@@ -2,7 +2,7 @@
 
 ## Erko Abdurahman
 
-![ErkoAbdu](images/ErkoAbdu.jpg)
+![ErkoAbdu](../images/ErkoAbdu.jpg)
 
 Full-Stack web developer based in Toronto. Enjoy coding in my free time as well as aimlessly staring at walls wondering why the code I just wrote isn't working!
 
