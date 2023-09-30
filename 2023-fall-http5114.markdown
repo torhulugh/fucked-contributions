@@ -11,7 +11,9 @@
 | ![Ederes Gure](images/jaalle1.jpg) | Ederes Gure | [jaalle1](students/jaalle1.markdown) |
 | ![Erko Abdurahman](images/ErkoAbdu.jpg) | Erko Abdurahman | [ErkoAbdu](students/ErkoAbdu.markdown) |
 | ![Melissa De Leon](/images/mel-deleon-23.jpg) | Melissa De Leon | [firstlast](/students/mel-deleon-23.markdown) |
+| ![Surbhi Singhania](images/SurbhiSinghania13.jpeg) | Surbhi Singhania | [surbhisinghania](students/SurbhiSinghania13.markdown) |
 | ![Sion Lee](images/sionara.jpg) | Sion Lee | [Sion Lee](students/sionara.markdown) |
+
 
 | ![Lap Wang Wong](images/leonwongdev.jpg) | Adam Thomas | [leonwongdev](students/leonwongdev.markdown) |
 | ![Jiabao Ding](images/Github-DingdingToronto.jpg) | Jiabao Ding | [jiabaoding](students/GIthub_DingdingToronto.markdown) |
