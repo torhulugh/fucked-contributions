@@ -9,8 +9,8 @@
 | ![Abbas Vaziri](images/abiasv.jpg)                 | Abbas Vaziri           | [AbiasV](students/abiasv)                     |
 | ![Abhishek Gaur](images/iamgaurabhishek.jpg)       | Abhishek Gaur          | [iamgaurabhishek](students/iamgaurabhishek)   |
 | ![Abraham Awotunde](images/abcool20999.jpg)        | Abraham Awotunde       | [abcool20999](students/abcool20999)           |
-| ![Adam Thomas](images/thomasadam83.jpg)            | Adam Thomas            | [adamthomas83](students/adamthomas83)         |
-| ![Ashim Shrestha](images/ashimshrestha.jpg)        | Ashim Shrestha         | [ashimshrestha](students/AshimStha)           |
+| ![Adam Thomas](images/thomasadam83.jpg)            | Adam Thomas            | [adamthomas83](students/thomasadam83)         |
+| ![Ashim Shrestha](images/ashimshrestha.jpg)        | Ashim Shrestha         | [ashimshrestha](students/ashimstha)           |
 | ![Bailey Liang](images/bliang1997.png)             | Bailey Liang           | [bliang1997](students/bliang1997)             |
 | ![Deep Patel](images/deep291998.jpg)               | Deep Patel             | [Deep Patel](students/deep291998)             |
 | ![Diego Rivera](images/diegoarivera35.png)         | Diego Rivera           | [diegoarivera35](students/diegoarivera35)     |
@@ -22,19 +22,19 @@
 | ![Hanze Liu](images/hanzeliu.png)                  | Hanze Liu              | [hanzeliu](students/hanzeliu)                 |
 | ![Jaskaran Kaur](images/jas.jpg)                   | Jaskaran Kaur          | [Jaskaran Kaur](students/jaskaran009)         |
 | ![Jiabao Ding](images/dingdingtoronto.jpg)         | Jiabao Ding            | [jiabaoding](students/dingdingtoronto)        |
-| ![Kaverappa K U](images/kaverappaku.png)           | Kaverappa K U          | [KaverappaKU](students/kaverappaKU)           |
+| ![Kaverappa K U](images/kaverappaku.png)           | Kaverappa K U          | [KaverappaKU](students/kaverappaku)           |
 | ![Kyle Scott](images/karscott6.jpg)                | Kyle Scott             | [karscott6](students/karscott6)               |
 | ![Lap Wang Wong](images/leonwongdev.jpg)           | Lap Wang Wong          | [leonwongdev](students/leonwongdev)           |
 | ![Lovepreet Singh](images/lovepreet-g.jpg)         | Lovepreet Singh        | [lovepreet-g](students/lovepreet-g)           |
-| ![Melissa De Leon](/images/mel-deleon-23.jpg)      | Melissa De Leon        | [firstlast](/students/mel-deleon-23)          |
+| ![Melissa De Leon](/images/mel-deleon-23.jpg)      | Melissa De Leon        | [mel-deleon-23 ](/students/mel-deleon-23)     |
 | ![Milin Vaniyawala](images/milinvaniyawala.png)    | Milin Vaniyawala       | [milinvaniyawala](students/milinvaniyawala)   |
 | ![Owen Laing](images/code-owen.png)                | Owen Laing             | [Owen Laing](students/code-owen)              |
 | ![Priyam Desai](images/priyam.png)                 | Priyam Desai           | [priyam-desai](students/priyam-desai)         |
 | ![Pruthvirajsinh Solanki](images/pruthviraj7.jpg)  | Pruthvirajsinh Solanki | [Pruthviraj7](students/pruthviraj7)           |
-| ![Sarah Tadele](images/sarahteee.jpg)              | Sarah Tadele           | [SarahTadele](students/sarahjteee)            |
+| ![Sarah Tadele](images/sarahteee.jpg)              | Sarah Tadele           | [SarahTadele](students/sarahteee)             |
 | ![Shrey Patel](images/shreynpatel23.jpg)           | Shrey Patel            | [shreyPatel](students/shreynpatel23)          |
 | ![Sion Lee](images/sionara.jpg)                    | Sion Lee               | [Sion Lee](students/sionara)                  |
-| ![Sravani Singani](images/singanisravani.jpg)      | Sravani Singani        | [SravaniSingani](students/SravaniSingani)     |
+| ![Sravani Singani](images/singanisravani.jpg)      | Sravani Singani        | [SravaniSingani](students/sravanisingani)     |
 | ![Surbhi Singhania](images/surbhisinghania13.jpeg) | Surbhi Singhania       | [surbhisinghania](students/surbhisinghania13) |
 | ![Suyash Kulkarni](images/suyash0028.jpg)          | Suyash Kulkarni        | [suyashkulkarni](students/suyash0028)         |
 | ![Yash Modi](images/yashmodi9998.jpg)              | Yash Modi              | [yashmodi9998](students/yashmodi9998)         |
