@@ -10,6 +10,8 @@
 | ![Adam Thomas](images/thomasadam83.jpg)  | Adam Thomas | [adamthomas83](students/adamthomas83)        |
 | ![Ederes Gure](images/jaalle1.jpg) | Ederes Gure | [jaalle1](students/jaalle1.markdown) |
 | ![Melissa De Leon](/images/mel-deleon-23.jpg) | Melissa De Leon | [firstlast](/students/mel-deleon-23.markdown) |
+| ![Sion Lee](images/sionara.jpg) | Sion Lee | [Sion Lee](students/sionara.markdown) |
+
 | ![Lap Wang Wong](images/leonwongdev.jpg) | Adam Thomas | [leonwongdev](students/leonwongdev.markdown) |
 | ![Jiabao Ding](images/Github-DingdingToronto.jpg) | Jiabao Ding | [jiabaoding](students/GIthub_DingdingToronto.markdown) |
 | ![Deep Patel](images/Deep291998.jpg) | First Last | [Deep Patel](students/Deep291998.markdown) |
@@ -25,6 +27,7 @@
 | ![Bailey Liang](images/bliang1997.png) | Bailey Liang | [bliang1997](students/bliang1997) |
 | ![Diego Rivera](images/diegoarivera35.png) | Diego Rivera | [diegoarivera35](students/diegoarivera35) |
 | ![Priyam Desai](images/priyam.png) | Priyam Desai | [priyam-desai](students/priyam-desai.markdown) |
+
 
 ### Faculty
 
