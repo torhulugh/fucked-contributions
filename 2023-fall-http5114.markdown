@@ -12,6 +12,7 @@
 | ![Adam Thomas](images/thomasadam83.jpg)  | Adam Thomas | [adamthomas83](students/adamthomas83)        |
 | ![Ederes Gure](images/jaalle1.jpg) | Ederes Gure | [jaalle1](students/jaalle1.markdown) |
 | ![Erko Abdurahman](images/ErkoAbdu.jpg) | Erko Abdurahman | [ErkoAbdu](students/ErkoAbdu.markdown) |
+| ![Fazhrul Sadip](images/sadipnsu.jpg) | Fazhrul Sadip | [adamthomas83](students/sadipnsu.markdown) |
 | ![Hanna George](images/hannah2898.jpg) | Hanna George | [hannah2898](students/hannah2898.markdown) |
 | ![Hanze Liu](images/hanzeliu.png) | Hanze Liu | [hanzeliu](students/hanzeliu) |
 | ![Jaskaran Kaur](images/jas.jpg)| Jaskaran Kaur | [Jaskaran Kaur](./students/Jaskaran009.markdown)
