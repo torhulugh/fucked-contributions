@@ -6,7 +6,7 @@
 
 |                                          | Name        | Profile                                      |
 | ---------------------------------------- | ----------- | -------------------------------------------- |
-| ![First Last](images/codeadamca.png)     | First Last  | [firstlast](students/firstlast)              |
+| ![Abhishek Gaur](./images/iamgaurabhishek.jpg) | Abhishek Gaur | [AG](./students/iamgaurabhishek.markdown) |
 | ![Adam Thomas](images/thomasadam83.jpg)  | Adam Thomas | [adamthomas83](students/adamthomas83)        |
 | ![Ederes Gure](images/jaalle1.jpg) | Ederes Gure | [jaalle1](students/jaalle1.markdown) |
 | ![Erko Abdurahman](images/ErkoAbdu.jpg) | Erko Abdurahman | [ErkoAbdu](students/ErkoAbdu.markdown) |
