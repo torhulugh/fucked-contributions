@@ -16,6 +16,7 @@
 | ![Beatrice Tan](images/beartisan.png)          | Beatrice Tan  | [beartisan](students/beartisan.markdown)                 |
 | ![Bassil Younes](images/byounes123321.png)     | Bassil Younes | [byounes123321](students/byounes123321.markdown)         |
 
+
 ### Faculty
 
 |                                       | Name        | Profile                          |
