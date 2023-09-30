@@ -20,6 +20,7 @@
 | ![Sarah Tadele](images/sarahtee.jpg) | Sarah Tadele | [SarahTadele](students/firstlast) |
 | ![Surbhi Singhania](images/SurbhiSinghania13.jpeg) | Surbhi Singhania | [surbhisinghania](students/SurbhiSinghania13.markdown) |
 | ![Sion Lee](images/sionara.jpg) | Sion Lee | [Sion Lee](students/sionara.markdown) |
+| ![Yash Modi](images/yashmodi9998.jpg) | Yash Modi | [yashmodi9998](students/yashmodi9998.markdown) |
 | ![Yousuf Abbas](images/skinnygoose.jpg) | Yousuf Abbas | [Yousufabbas](students/skinnygoose) |
 
 
