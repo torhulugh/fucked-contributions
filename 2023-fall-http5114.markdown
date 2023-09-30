@@ -8,6 +8,7 @@
 | ---------------------------------------- | ----------- | -------------------------------------------- |
 | ![Abbas Vaziri](images/abiasV.jpg)      | Abbas Vaziri | [AbiasV](students/AbiasV.markdown)    |
 | ![Abhishek Gaur](./images/iamgaurabhishek.jpg) | Abhishek Gaur | [AG](./students/iamgaurabhishek.markdown) |
+| ![Abraham Awotunde](images/abcool20999.jpg) | Abraham Awotunde | [abcool20999](students/abcool20999.markdown) |
 | ![Adam Thomas](images/thomasadam83.jpg)  | Adam Thomas | [adamthomas83](students/adamthomas83)        |
 | ![Ederes Gure](images/jaalle1.jpg) | Ederes Gure | [jaalle1](students/jaalle1.markdown) |
 | ![Erko Abdurahman](images/ErkoAbdu.jpg) | Erko Abdurahman | [ErkoAbdu](students/ErkoAbdu.markdown) |
@@ -35,7 +36,6 @@
 | ![Bailey Liang](images/bliang1997.png) | Bailey Liang | [bliang1997](students/bliang1997) |
 | ![Diego Rivera](images/diegoarivera35.png) | Diego Rivera | [diegoarivera35](students/diegoarivera35) |
 | ![Priyam Desai](images/priyam.png) | Priyam Desai | [priyam-desai](students/priyam-desai.markdown) |
-
 
 ### Faculty
 
