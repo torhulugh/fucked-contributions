@@ -22,6 +22,7 @@
 | ![Sarah Tadele](images/sarahtee.jpg) | Sarah Tadele | [SarahTadele](students/firstlast) |
 | ![Surbhi Singhania](images/SurbhiSinghania13.jpeg) | Surbhi Singhania | [surbhisinghania](students/SurbhiSinghania13.markdown) |
 | ![Sion Lee](images/sionara.jpg) | Sion Lee | [Sion Lee](students/sionara.markdown) |
+| ![Sravani Singani](images/singanisravani.jpg) | Sravani Singani | [SravaniSingani](students/SravaniSingani) |
 | ![Yash Modi](images/yashmodi9998.jpg) | Yash Modi | [yashmodi9998](students/yashmodi9998.markdown) |
 | ![Yousuf Abbas](images/skinnygoose.jpg) | Yousuf Abbas | [Yousufabbas](students/skinnygoose) |
 
@@ -41,6 +42,7 @@
 | ![Bailey Liang](images/bliang1997.png) | Bailey Liang | [bliang1997](students/bliang1997) |
 | ![Diego Rivera](images/diegoarivera35.png) | Diego Rivera | [diegoarivera35](students/diegoarivera35) |
 | ![Priyam Desai](images/priyam.png) | Priyam Desai | [priyam-desai](students/priyam-desai.markdown) |
+
 
 ### Faculty
 
