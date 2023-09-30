@@ -31,7 +31,7 @@
 | ![Owen Laing](images/code-owen.png)                | Owen Laing             | [Owen Laing](students/code-owen)              |
 | ![Priyam Desai](images/priyam.png)                 | Priyam Desai           | [priyam-desai](students/priyam-desai)         |
 | ![Pruthvirajsinh Solanki](images/pruthviraj7.jpg)  | Pruthvirajsinh Solanki | [Pruthviraj7](students/pruthviraj7)           |
-| ![Sarah Tadele](images/sarahtee.jpg)               | Sarah Tadele           | [SarahTadele](students/firstlast)             |
+| ![Sarah Tadele](images/sarahteee.jpg)              | Sarah Tadele           | [SarahTadele](students/sarahjteee)            |
 | ![Shrey Patel](images/shreynpatel23.jpg)           | Shrey Patel            | [shreyPatel](students/shreynpatel23)          |
 | ![Sion Lee](images/sionara.jpg)                    | Sion Lee               | [Sion Lee](students/sionara)                  |
 | ![Sravani Singani](images/singanisravani.jpg)      | Sravani Singani        | [SravaniSingani](students/SravaniSingani)     |
