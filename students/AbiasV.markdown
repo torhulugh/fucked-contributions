@@ -2,19 +2,19 @@
 
 ## Abbas Vaziri
 
-![Abbas Vaziri](../images/AbiasV.jpg)
+![Abbas Vaziri](../images/abiasV.jpg)  
 
-Paragraph...
+My name is Abbas Vaziri
 
-Portfolio:
-LinkedIn:
-GitHub:
+Portfolio: [Portfolio](https://vaziri.fiachehr.ir/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/abbasvaziri/)
+GitHub: [GitHub](https://abiasV.github.com)
 
 ### Projects
 
-| Project |                                                        |
-| ------- | ------------------------------------------------------ |
-| Taks    | [https://abiasV.github.com](https://abiasV.github.com) |
+| Project |                                          |
+| ------- | ---------------------------------------- |
+| Taks    | [tasks.brickmmo.com](tasks.brickmmo.com) |
 
 [&#10132; Back to Class List](/)
 
