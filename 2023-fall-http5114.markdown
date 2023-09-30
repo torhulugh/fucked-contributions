@@ -8,6 +8,7 @@
 | ---------------------------------------- | ----------- | -------------------------------------------- |
 | ![First Last](images/codeadamca.png)     | First Last  | [firstlast](students/firstlast)              |
 | ![Adam Thomas](images/thomasadam83.jpg)  | Adam Thomas | [adamthomas83](students/adamthomas83)        |
+| ![Ederes Gure](images/jaalle1.jpg) | Ederes Gure | [jaalle1](students/jaalle1.markdown) |
 | ![Melissa De Leon](/images/mel-deleon-23.jpg) | Melissa De Leon | [firstlast](/students/mel-deleon-23.markdown) |
 | ![Lap Wang Wong](images/leonwongdev.jpg) | Adam Thomas | [leonwongdev](students/leonwongdev.markdown) |
 | ![Jiabao Ding](images/Github-DingdingToronto.jpg) | Jiabao Ding | [jiabaoding](students/GIthub_DingdingToronto.markdown) |
