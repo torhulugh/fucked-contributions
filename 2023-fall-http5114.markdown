@@ -4,15 +4,43 @@
 
 ### Students
 
-| | Name | Profile | 
-| - | - | - |
-| ![Adam Thomas](images/thomasadam83.jpg) | Adam Thomas | [adamthomas83](students/adamthomas83) |
-|![Lovepreet Singh](images/lovepreet-g.jpg)|Lovepreet Singh|[lovepreet-g](students/lovepreet-g.md)|
+|                                          | Name        | Profile                                      |
+| ---------------------------------------- | ----------- | -------------------------------------------- |
+| ![Abbas Vaziri](images/abiasV.jpg)      | Abbas Vaziri | [AbiasV](students/AbiasV.markdown)    |
+| ![Abhishek Gaur](./images/iamgaurabhishek.jpg) | Abhishek Gaur | [AG](./students/iamgaurabhishek.markdown) |
+| ![Adam Thomas](images/thomasadam83.jpg)  | Adam Thomas | [adamthomas83](students/adamthomas83)        |
+| ![Ederes Gure](images/jaalle1.jpg) | Ederes Gure | [jaalle1](students/jaalle1.markdown) |
+| ![Erko Abdurahman](images/ErkoAbdu.jpg) | Erko Abdurahman | [ErkoAbdu](students/ErkoAbdu.markdown) |
+| ![Hanna George](images/hannah2898.jpg) | Hanna George | [hannah2898](students/hannah2898.markdown) |
+| ![Jaskaran Kaur](images/jas.jpg)| Jaskaran Kaur | [Jaskaran Kaur](./students/Jaskaran009.markdown)
+| ![Lovepreet Singh](images/lovepreet-g.jpg) | Lovepreet Singh | [lovepreet-g](students/lovepreet-g.md) |
+| ![Melissa De Leon](/images/mel-deleon-23.jpg) | Melissa De Leon | [firstlast](/students/mel-deleon-23.markdown) |
+| ![Sarah Tadele](images/sarahtee.jpg) | Sarah Tadele | [SarahTadele](students/firstlast) |
+| ![Surbhi Singhania](images/SurbhiSinghania13.jpeg) | Surbhi Singhania | [surbhisinghania](students/SurbhiSinghania13.markdown) |
+| ![Sion Lee](images/sionara.jpg) | Sion Lee | [Sion Lee](students/sionara.markdown) |
+
+
+| ![Lap Wang Wong](images/leonwongdev.jpg) | Adam Thomas | [leonwongdev](students/leonwongdev.markdown) |
+| ![Jiabao Ding](images/Github-DingdingToronto.jpg) | Jiabao Ding | [jiabaoding](students/GIthub_DingdingToronto.markdown) |
+| ![Deep Patel](images/Deep291998.jpg) | First Last | [Deep Patel](students/Deep291998.markdown) |
+| ![First Last](images/codeadamca.png)   | First Last    | [firstlast](students/firstlast)              |
+| ![Milin Vaniyawala](images/milinvaniyawala.png) | Milin Vaniyawala | [milinvaniyawala](students/milinvaniyawala.markdown) |
+| ![Kaverappa K U](images/Kaverappa.png) | Kaverappa K U | [KaverappaKU](students/kaverappaKU.markdown) |
+| ![Ashim Shrestha](images/ashimshrestha.jpg) | Ashim Shrestha | [ashimshrestha](students/AshimStha.markdown) |
+| ![Suyash Kulkarni](images/Suyash0028.jpg) | Suyash Kulkarni | [suyashkulkarni](./students/Suyash0028.markdown) |
+| ![Kyle Scott](images/karscott6.jpg) | Kyle Scott | [karscott6](students/karscott6.markdown) |
+| ![Owen Laing](images/code-owen.png) | Owen Laing | [Owen Laing](https://github.com/code-owen) |
+| ![Shrey Patel](images/shreynpatel23.jpg) | Shrey Patel | [shreyPatel](students/shreynpatel23.markdown) |
+| ![Hannah Quintos](images/hannahquintos.jpg) | Hannah Quintos | [hannahquintos](students/hannahquintos) |
+| ![Bailey Liang](images/bliang1997.png) | Bailey Liang | [bliang1997](students/bliang1997) |
+| ![Diego Rivera](images/diegoarivera35.png) | Diego Rivera | [diegoarivera35](students/diegoarivera35) |
+| ![Priyam Desai](images/priyam.png) | Priyam Desai | [priyam-desai](students/priyam-desai.markdown) |
+
 
 ### Faculty
 
-| | Name | Profile | 
-| - | - | - |
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
 
 [&#10132; Back to Class List](/)
