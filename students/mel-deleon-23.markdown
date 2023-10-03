@@ -1,12 +1,11 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Mel
+## Melissa De Leon
 
-![Mel](../images/mel-delon-23.jpg)
+![Melissa De Leon](../images/mel-delon-23.jpg)
 
-Portfolio:
-LinkedIn:
-GitHub:
+Portfolio: [Melissa De Leon](https://www.melissa-deleon.ca/) 
+GitHub: [mel-deleon-23](https://github.com/mel-deleon-23)
 
 | Project | URL                                            |
 | ------- | ---------------------------------------------- |
