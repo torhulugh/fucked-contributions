@@ -14,7 +14,7 @@ GitHub: [GitHub](https://abiasV.github.com)
 
 | Project |                                          |
 | ------- | ---------------------------------------- |
-| Taks    | [tasks.brickmmo.com](tasks.brickmmo.com) |
+| Taks    | [tasks.brickmmo.com](https://tasks.brickmmo.com/) |
 
 [&#10132; Back to Class List](/)
 
