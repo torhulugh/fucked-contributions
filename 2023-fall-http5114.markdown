@@ -39,7 +39,7 @@
 | ![Suyash Kulkarni](images/suyash0028.jpg)          | Suyash Kulkarni        | [suyashkulkarni](students/suyash0028)         |
 | ![Yash Modi](images/yashmodi9998.jpg)              | Yash Modi              | [yashmodi9998](students/yashmodi9998)         |
 | ![Yousuf Abbas](images/skinnygoose.jpg)            | Yousuf Abbas           | [Yousufabbas](students/skinnygoose)           |
-
+| ![Achiaah Agyemang Duah](images/Achiaah.jpg)       |Achiaah Agyemang Duah         | [Achiaah Agyemang Duah](students/codeagyemangduahh)          |
 ### Faculty
 
 |                                       | Name        | Profile                          |
