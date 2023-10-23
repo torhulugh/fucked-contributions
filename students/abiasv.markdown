@@ -4,7 +4,7 @@
 
 ![Abbas Vaziri](../images/abiasV.jpg)  
 
-My name is Abbas Vaziri
+Student at Humber College learning Web Development.
 
 Portfolio: [Portfolio](https://vaziri.fiachehr.ir/)
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/abbasvaziri/)
@@ -14,7 +14,7 @@ GitHub: [GitHub](https://abiasV.github.com)
 
 | Project |                                          |
 | ------- | ---------------------------------------- |
-| Taks    | [tasks.brickmmo.com](tasks.brickmmo.com) |
+| Taks    | [tasks.brickmmo.com](https://tasks.brickmmo.com/) |
 
 [&#10132; Back to Class List](/)
 
