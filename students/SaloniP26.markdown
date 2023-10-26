@@ -2,7 +2,7 @@
 
 ## Saloni Pawar
 
-![Beatrice Tan](../images/salonipawar.jpg)
+![Beatrice Tan](../images/SaloniP26.jpg)
 
 Fullstack Web Developer.
 
