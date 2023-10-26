@@ -2,13 +2,13 @@
 
 ## Suyeon Jang
 
-![Suyeon Jang](../images/jshawn0916.jpg)
+![Suyeon Jang](../images/jshawn0916.png)
 
 Front-end Developer. Studying in Humber College
 
-Portfolio : [Portfolio page(2021ver.)] (https://jshawn0916.github.io/portfolio/)
-LinkedIn : [LinkedIn] (https://www.linkedin.com/in/suyeon-jang-95196026a/)
-Github : [Github] (https://github.com/jshawn0916)
+Portfolio : [Portfolio page(2021ver.)] (https://jshawn0916.github.io/portfolio/)  
+LinkedIn : [LinkedIn] (https://www.linkedin.com/in/suyeon-jang-95196026a/)  
+Github : [Github] (https://github.com/jshawn0916)  
 
 ### Projects
 |Name|URL|Technology|
