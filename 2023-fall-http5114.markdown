@@ -40,6 +40,7 @@
 | ![Yash Modi](images/yashmodi9998.jpg)              | Yash Modi              | [yashmodi9998](students/yashmodi9998)               |
 | ![Yousuf Abbas](images/skinnygoose.jpg)            | Yousuf Abbas           | [Yousufabbas](students/skinnygoose)                 |
 | ![Achiaah Agyemang Duah](images/Achiaah.jpg)       | Achiaah Agyemang Duah  | [Achiaah Agyemang Duah](students/codeagyemangduahh) |
+| ![Arnulfo Sanchez](images/ufosanchez.jpg)          | Arnulfo Sanchez        | [ufosanchez](students/ufosanchez.markdown)          |
 
 ### Faculty
 
