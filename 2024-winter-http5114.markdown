@@ -8,6 +8,7 @@
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
 | ![tingliu](images/unlimitedting.jpg)     | Ting Liu    | [tingliu](students/unlimitedting.markdown)      |
+| ![alejo2198](images/alejo2198.jpg) | Alejandro Castro | [alejo2198](students/alejo2198) |
 
 ### Faculty
 
