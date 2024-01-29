@@ -6,7 +6,7 @@
 
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
-| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![anish9243](images/anish-9243.jpg) | Anish Patel | [ansih9243](students/anish9243) |
 
 ### Faculty
 
