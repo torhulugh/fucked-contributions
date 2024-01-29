@@ -9,6 +9,8 @@
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
 | ![bhargav1997](images/bhargav1997.jpeg) | Bhargav Suthar | [bhargav1997](students/bhargav1997) |
+| ![alejo2198](images/alejo2198.jpg) | Alejandro Castro | [alejo2198](students/alejo2198) |
+
 
 ### Faculty
 
