@@ -10,9 +10,10 @@
 
 ### Faculty
 
-|                                       | Name        | Profile                          |
-| ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+|                                                 | Name               | Profile                                          |
+| ----------------------------------------------- | ------------------ | ------------------------------------------------ |
+| ![Adam Thomas](images/codeadamca.png)           | Adam Thomas        | [codeadamca](faculty/codeadamca)                 |
+| ![Navaneeth Krishnan](images/aliveordinary.png) | Navaneeth Krishnan | [aliveordinary](students/aliveordinary.markdown) |
 
 [&#10132; Back to Class List](/)
 
