@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Anthony Ho
+## Ozan Lago-Sereflioglu
 
 ![Ozan Lago-Sereflioglu](../images/ozanls.png)
 
