@@ -2,7 +2,7 @@
 
 ## Pavan Mistry
 
-![Pavan Mistry](../images/pavan1003.png)
+![Pavan Mistry](../images/pavan_1003.png)
 
 ## About me
 I am an Enthusiastic student eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Web developer with a strong eye for innovative design and a keen 

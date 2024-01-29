@@ -6,7 +6,7 @@
 
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
-| ![pavan1003](images/pavan1003.png) | Pavan Mistry | [pavan1003](students/pavan1003) |
+| ![pavan1003](images/pavan_1003.png) | Pavan Mistry | [pavan1003](students/pavan1003) |
 
 ### Faculty
 
