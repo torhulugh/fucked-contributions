@@ -14,6 +14,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Mick Manuit](images/mikmok25.jpg) | Mick Manuit | [mikmok25](student/mikmok25) |
 
 [&#10132; Back to Class List](/)
 
