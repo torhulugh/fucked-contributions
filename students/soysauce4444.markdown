@@ -6,7 +6,7 @@
 
 I have a health background, looking to move more towards tech.
 
-GitHub: [Youngin Choi](https://github.com/soysauce4444)
+GitHub: [soysauce4444](https://github.com/soysauce4444)
 
 
 ### Projects
