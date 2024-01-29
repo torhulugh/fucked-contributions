@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Workshops in Web Development 1 - HTTP5114 - Fall 2023
+## Workshops in Web Development 1 - HTTP5114 - Winter 2024
 
 ### Students
 
@@ -13,6 +13,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Neelima Akoju](images/neelimaakoju.png) | Neelima Akoju |[neelimaakoju](students/neelimaakoju.markdown) |
 
 [&#10132; Back to Class List](/)
 
