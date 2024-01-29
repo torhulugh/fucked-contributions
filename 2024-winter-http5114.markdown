@@ -8,7 +8,7 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
-| <img src="./images/bhargav1997.jpeg" alt="Bhargav Suthar" width="100" height="auto">| Bhargav Suthar | [bhargav1997](students/bhargav1997) |
+| ![bhargav1997](images/bhargav1997.jpeg) | Bhargav Suthar | [bhargav1997](students/bhargav1997) |
 
 ### Faculty
 
