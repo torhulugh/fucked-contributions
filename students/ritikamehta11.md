@@ -2,7 +2,7 @@
 
 ## Ritika Mehta
 
-![Ritika Mehta](../images/ritikamehta11.jpg)
+![Ritika Mehta](../images/ritikamehta11.jpeg)
 
 Frontend Web Developer.
 
