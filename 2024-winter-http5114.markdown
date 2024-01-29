@@ -7,6 +7,8 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![pavan1003](images/pavan_1003.png) | Pavan Mistry | [pavan1003](students/pavan1003) |
+| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![alejo2198](images/alejo2198.jpg) | Alejandro Castro | [alejo2198](students/alejo2198) |
 
 ### Faculty
 
