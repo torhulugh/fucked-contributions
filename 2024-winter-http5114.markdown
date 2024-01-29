@@ -6,7 +6,7 @@
 
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
-| ![anant770](images/anantchauhan.jpeg) | Anant Chauhan | [anant770](students/anant770) |
+| ![anant770](images/anantchauhan.jpeg) | Anant Chauhan | [anant770](students/anant770git) |
 
 ### Faculty
 
