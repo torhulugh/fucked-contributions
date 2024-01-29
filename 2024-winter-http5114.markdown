@@ -7,7 +7,7 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
-
+| ![encrypted-rose](images/encryptedrose.jpg) |Rosalia Sousa | [encrypted-rose](students/encryptedrose..markdown)|
 ### Faculty
 
 |                                       | Name        | Profile                          |
