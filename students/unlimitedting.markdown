@@ -7,8 +7,8 @@
 Full Stack Web Developer from Toronto, entering the world of programming.
 
 Portfolio: [portfolio](https://bassilyounes.com)  
-LinkedIn: [bassilyounes](https://www.linkedin.com/in/ting-liu-full-stack/)  
-GitHub: [byounes123321](https://github.com/unlimitedTing)  
+LinkedIn: [ting liu](https://www.linkedin.com/in/ting-liu-full-stack/)  
+GitHub: [unlimitedTing](https://github.com/unlimitedTing)  
 
 ### Projects
 
