@@ -7,6 +7,7 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![aybehl](images/aybehl.png) | Ayushi Behl | [aybehl](students/ayushibehl.markdown) |
 
 ### Faculty
 
