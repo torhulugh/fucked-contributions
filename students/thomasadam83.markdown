@@ -6,15 +6,15 @@
 
 Paragraph...
 
-Portfolio: 
-LinkedIn: 
-GitHub: 
+Portfolio:
+LinkedIn:
+GitHub:
 
 ### Projects
 
-| Project | |
-| - | - |
-| Taks | [https://tasks.brickmmo.com](https://tasks.brickmmo.com)
+| Project |                                                          |
+| ------- | -------------------------------------------------------- |
+| Taks    | [https://tasks.brickmmo.com](https://tasks.brickmmo.com) |
 
 [&#10132; Back to Class List](/)
 
