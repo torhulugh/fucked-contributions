@@ -7,7 +7,7 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
-| ![tingliu](images/unlimitedting.jpg)              | Ting Liu    | [tingliu](students/thomasadam83)      |
+| ![tingliu](images/unlimitedting.jpg)     | Ting Liu    | [tingliu](students/unlimitedting)      |
 
 ### Faculty
 
