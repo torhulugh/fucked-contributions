@@ -7,7 +7,7 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
-| ![soysauce4444](images/soysauce4444.png) | Youngin Choi | [soysauce4444](students/codeadamca) |
+| ![soysauce4444](images/soysauce4444.png) | Youngin Choi | [soysauce4444](students/soysauce4444) |
 
 ### Faculty
 
