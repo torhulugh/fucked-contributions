@@ -2,7 +2,7 @@
 
 # Bhargav Suthar
 
-<img src="../images/bhargav1997.jpeg" alt="Bhargav Suthar" width="150" height="auto">
+![Bhargav Suthar](../images/bhargav1997.jpeg) 
 
 FullStack Javascript developer with consulting experience building web and mobile applications. I specialize in JS and have professional experience working with React Web, React Native, and NodeJS. I also have experience working with Redux, and Storybook :)
 
