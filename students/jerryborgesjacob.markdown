@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Adam Thomas
+## Jerry Borges Jacob
 
 ![Jerry Jacob](../images/jerryborgesjacob.jpg)
 
