@@ -4,9 +4,10 @@
 
 ### Students
 
-|                                          | Name        | Profile                               |
-| ---------------------------------------- | ----------- | ------------------------------------- |
-| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+|                                          | Name          | Profile                               |
+| ---------------------------------------- | -----------   | ------------------------------------- |
+| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas   | [thomasadam83](students/thomasadam83) |
+| ![rutisha](images/Rutisha%20Patel.png)   | Rutisha Patel | [rutisha](students/rutisha.markdown)  |
 
 ### Faculty
 
