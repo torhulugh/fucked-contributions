@@ -6,7 +6,7 @@
 
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
-| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![jinil2401](images/jinil(1).jpg) | Jinil Parekh | [jinil2401](students/jinil2401) |
 
 ### Faculty
 
