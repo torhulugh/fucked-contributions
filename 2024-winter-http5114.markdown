@@ -7,6 +7,7 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![evneetkaur19](images/evneetkaur19.jpg) | Evneet Kaur | [evneetkaur19](students/Evneetkaur19) |
 
 ### Faculty
 
