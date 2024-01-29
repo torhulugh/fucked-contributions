@@ -2,7 +2,7 @@
 
 ## Joshua Moshood
 
-![Joshua Moshood](../images/emlycool.png)
+![Joshua Moshood](../images/emlycool.jpg)
 
 Im currently a student at humber web development program. I have enjoyed building apps with the following technologies PHP, js, Laravel, Vue.js, Docker.
 
