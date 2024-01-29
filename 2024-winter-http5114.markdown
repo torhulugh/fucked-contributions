@@ -4,9 +4,10 @@
 
 ### Students
 
-|                                          | Name        | Profile                               |
-| ---------------------------------------- | ----------- | ------------------------------------- |
-| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+|                                          | Name          | Profile                                        |
+| ---------------------------------------- | ------------- | ---------------------------------------------- |
+| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas   | [thomasadam83](students/thomasadam83)          |
+| ![irinabalanel](images/irinabalanel.jpg) | Irina Balanel | [irinabalanel](students/irinabalanel.markdown) |
 
 ### Faculty
 
