@@ -1,5 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
+
 ## Workshops in Web Development 1 - HTTP5114 - Fall 2023
 
 ### Students
@@ -7,7 +8,7 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
-| ![bhargav1997](images/bhargav1997.jpeg) | Bhargav Suthar | [bhargav1997](students/bhargav1997) |
+| <img src="./images/bhargav1997.jpeg" alt="Bhargav Suthar" width="100" height="auto">| Bhargav Suthar | [bhargav1997](students/bhargav1997) |
 
 ### Faculty
 
