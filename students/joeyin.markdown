@@ -7,6 +7,7 @@
 I'm a frontend developer. My experience involves creating websites and making them more user-friendly.
 
 LinkedIn: [Chi-Wei Yin](https://www.linkedin.com/in/joeyin/)
+
 GitHub: [joeyin](https://github.com/joeyin)
 
 ### Projects
