@@ -6,7 +6,7 @@
 
 Web Developer. 
 
-GitHub: [alejo2198](https://github.com/Navjotgill99)
+GitHub: [Navjotgill99](https://github.com/Navjotgill99)
 
 ### Projects
 
