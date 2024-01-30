@@ -4,10 +4,11 @@
 
 ### Students
 
-|                                          | Name        | Profile                               |
-| ---------------------------------------- | ----------- | ------------------------------------- |
-| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
-| ![alejo2198](images/alejo2198.jpg) | Alejandro Castro | [alejo2198](students/alejo2198) |
+|                                            | Name             | Profile                               |
+| ------------------------------------------ | ---------------- | ------------------------------------- |
+| ![thomasadam83](images/thomasadam83.jpg)   | Adam Thomas      | [thomasadam83](students/thomasadam83) |
+| ![alejo2198](images/alejo2198.jpg)         | Alejandro Castro | [alejo2198](students/alejo2198)       |
+| ![vincent1224](images/vincentchan1224.jpg) | Vincent Chan     | [alejo2198](students/vincentchan1224) |
 
 ### Faculty
 
