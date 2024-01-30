@@ -2,7 +2,7 @@
 
 ## Navjot Kaur Gill
 
-![Navjot Kaur Gill](../images/alejo2198.png)
+![Navjot Kaur Gill](../images/navjotgill99.png)
 
 Web Developer. 
 
