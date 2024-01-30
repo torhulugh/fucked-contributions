@@ -1,14 +1,12 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Alejandro Castro
+## Navjot Kaur Gill
 
-![Alejandro Castro](../images/alejo2198.png)
+![Navjot Kaur Gill](../images/alejo2198.png)
 
-Junior Full Stack Developer. I enjoy react development. My hobbies include chess, guitar, crochet and cycling. 
+Web Developer. 
 
-Portfolio: [https://alejandro-castro-portfolio.netlify.app/](https://alejandro-castro-portfolio.netlify.app/)  
-LinkedIn: [Alejandro Castro](https://www.linkedin.com/in/alejandro-castro-professional/)  
-GitHub: [alejo2198](https://github.com/alejo2198)  
+GitHub: [alejo2198](https://github.com/Navjotgill99)
 
 ### Projects
 
