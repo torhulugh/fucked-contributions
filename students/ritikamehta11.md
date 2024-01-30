@@ -4,10 +4,10 @@
 
 ![Ritika Mehta](../images/ritikamehta11.jpeg)
 
-Frontend Web Developer.
+Frontend Web Developer
 
 LinkedIn: [Ritika Mehta](https://www.linkedin.com/in/me-ritika-mehta/)  
-GitHub: [ritikamehta11](https://github.com/ritikamehta11)  
+GitHub: [ritikamehta11](https://github.com/ritikamehta11)
 
 ### Projects
 
