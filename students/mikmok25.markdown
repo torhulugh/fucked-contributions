@@ -7,8 +7,8 @@
 
 Forward-thinking Software Engineer with background working productively in dynamic environments. Fluent in Python and Shell programming languages used to develop software. Proud team player focused on achieving project objectives with speed and accuracy.
 
-Stackoverflow: [kaverappaku](https://stackoverflow.com/users/23221089/mick-nixon)  
-GitHub: [KaverappaKU](https://stackoverflow.com/users/23221089/mick-nixon)
+Stackoverflow: [Mick Nixon](https://stackoverflow.com/users/23221089/mick-nixon)  
+GitHub: [mikmok25](https://stackoverflow.com/users/23221089/mick-nixon)
 
 ### Projects
 
