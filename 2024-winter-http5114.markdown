@@ -6,7 +6,7 @@
 
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
-| ![anish9243](images/anish-9243.jpg) | Anish Patel | [ansih9243](students/anish9243) |
+| ![anish9243](images/anish-9243.jpg) | Anish Patel | [anish9243](students/anish9243) |
 
 ### Faculty
 
