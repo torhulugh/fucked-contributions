@@ -4,7 +4,7 @@
 
 ![Vaibhav Baria](../images/vaibhav.jpg)
 
-I am a passionate software developer with a strong interest in building innovative applications. I am familiar with React, Next.js, Tailwind, Typescript and Javascirpt. I am also interested in game development and currently trying to learn it.
+I am a passionate software developer with a strong interest in building innovative applications. I am familiar with React, Next.js, Tailwind, Typescript and Javascirpt.
 
 [LinkedIn](https://www.linkedin.com/in/vaibhavbaria/)  
 [GitHub](https://github.com/BlurryFarce)

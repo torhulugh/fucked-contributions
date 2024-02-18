@@ -7,7 +7,7 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
-| ![BlurryFarce](images/vaibhav.jpg) | Vaibhav Baria | [BlurryFarce](students/blurryfarce) |
+| ![BlurryFarce](images/vaibhav.jpg) | Vaibhav Baria | [BlurryFarce](students/blurryfarce.md) |
 
 ### Faculty
 
