@@ -23,6 +23,7 @@
 | ![jinil2401](images/jinil(1).jpg) | Jinil Parekh | [jinil2401](students/jinil2401) |
 | ![Saran2445](images/Saran2445.jpg) | Saran Kanaga Sabapathy | [Saran2445](students/Saran2445) |
 | ![alejo2198](images/alejo2198.jpg) | Alejandro Castro | [alejo2198](students/alejo2198) |
+| ![gtouf7](images/gtouf7.JPEG)      | Georgios Toufexis | [gtouf7](students/gtouf7) |
 | ![joeyin](images/joeyin.png) | Chi-Wei Yin | [joeyin](students/joeyin) |
 | ![mikmok25](images/mikmok25.jpg) | Mick Manuit | [mikmok25](student/mikmok25) |
 | ![ozanls](images/ozanls.png) | Ozan Lago-Sereflioglu | [ozanls](students/ozanls.markdown) |
