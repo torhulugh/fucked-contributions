@@ -7,14 +7,15 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![pavan1003](images/pavan_1003.png) | Pavan Mistry | [pavan1003](students/pavan1003) |
-| ![ritikamehta11](images/.jpg)            | Ritika Mehta | [ritikamehta11](students/ritikamehta11) |
+| ![ritikamehta11](images/.jpg) | Ritika Mehta | [ritikamehta11](students/ritikamehta11) |
 | ![anish9243](images/anish-9243.jpg) | Anish Patel | [anish9243](students/anish9243) |
 | ![aliveordinary](images/aliveordinary.png) | Navaneeth Krishnan | [aliveordinary](students/aliveordinary.markdown) |
 | ![neelimaakoju](images/neelimaakoju.png) | Neelima Akoju |[neelimaakoju](students/neelimaakoju.markdown) |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![BlurryFarce](images/vaibhav.jpg) | Vaibhav Baria | [BlurryFarce](students/blurryfarce.md) |
 | ![aliqasim54321](images/aliqasim54321%20(1).jpg) | Ali Qasim Khundmiri Syed | [aliqasim54321](students/aliqasim54321) |
 | ![bhargav1997](images/bhargav1997.jpeg) | Bhargav Suthar | [bhargav1997](students/bhargav1997) |
-| ![tingliu](images/unlimitedting.jpg)     | Ting Liu    | [tingliu](students/unlimitedting.markdown)      |
+| ![tingliu](images/unlimitedting.jpg) | Ting Liu | [tingliu](students/unlimitedting.markdown)      |
 | ![evneetkaur19](images/evneetkaur19.jpg) | Evneet Kaur | [evneetkaur19](students/Evneetkaur19) |
 | ![thurstontran](images/thurstontran.png) | Thurston Tran | [thurstontran](students/thurstontran) |
 | ![encrypted-rose](images/encryptedrose.jpg) |Rosalia Sousa | [encrypted-rose](students/encryptedrose..markdown)|
@@ -32,14 +33,14 @@
 | ![kathanpatel29](/images/kathan.jpg) | Kathan Patel | [kathanpatel29](/students/kathanpatel29.markdown) |
 | ![jerryborgesjacob](images/jerryborgesjacob.jpg) | Jerry Borges Jacob | [jerryborgesjacob](students/jerryborgesjacob.markdown) |
 | ![emlycool](images/emlycool.jpg) | Joshua Moshood | [emlycool](students/emlycool) |
-| ![gtouf7](images/gtouf7.JPEG)      | Georgios Toufexis | [gtouf7](students/gtouf7) |
+| ![gtouf7](images/gtouf7.JPEG) | Georgios Toufexis | [gtouf7](students/gtouf7) |
 | ![joeyin](images/joeyin.png) | Chi-Wei Yin | [joeyin](students/joeyin) |
 | ![mikmok25](images/mikmok25.jpg) | Mick Manuit | [mikmok25](student/mikmok25) |
 | ![ozanls](images/ozanls.png) | Ozan Lago-Sereflioglu | [ozanls](students/ozanls.markdown) |
 | ![samvaarv](images/samvaarv.jpg) | Sumin Shrestha | [samvaarv](students/samvaarv) |
 | ![isiboreromoselejason](images/IsiborEromosele1) | Isibor Eromosele Jason | [isiboreromoselejason](students/isiboreromoselejason.markdown) |
-| ![alejo2198](images/alejo2198.jpg)         | Alejandro Castro | [alejo2198](students/alejo2198)       |
-| ![vincent1224](images/vincentchan1224.jpg) | Vincent Chan     | [alejo2198](students/vincentchan1224) |
+| ![alejo2198](images/alejo2198.jpg) | Alejandro Castro | [alejo2198](students/alejo2198) |
+| ![vincent1224](images/vincentchan1224.jpg) | Vincent Chan | [alejo2198](students/vincentchan1224) |
 
 ### Faculty
 
