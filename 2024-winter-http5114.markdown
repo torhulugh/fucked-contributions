@@ -11,6 +11,7 @@
 | ![aliveordinary](images/aliveordinary.png) | Navaneeth Krishnan | [aliveordinary](students/aliveordinary.markdown) |
 | ![neelimaakoju](images/neelimaakoju.png) | Neelima Akoju |[neelimaakoju](students/neelimaakoju.markdown) |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![aliqasim54321](images/aliqasim54321%20(1).jpg) | Ali Qasim Khundmiri Syed | [aliqasim54321](students/aliqasim54321) |
 | ![bhargav1997](images/bhargav1997.jpeg) | Bhargav Suthar | [bhargav1997](students/bhargav1997) |
 | ![tingliu](images/unlimitedting.jpg)     | Ting Liu    | [tingliu](students/unlimitedting.markdown)      |
 | ![evneetkaur19](images/evneetkaur19.jpg) | Evneet Kaur | [evneetkaur19](students/Evneetkaur19) |
@@ -31,7 +32,6 @@
 | ![ozanls](images/ozanls.png) | Ozan Lago-Sereflioglu | [ozanls](students/ozanls.markdown) |
 | ![samvaarv](images/samvaarv.jpg) | Sumin Shrestha | [samvaarv](students/samvaarv) |
 | ![isiboreromoselejason](images/IsiborEromosele1) | Isibor Eromosele Jason | [isiboreromoselejason](students/isiboreromoselejason.markdown) |
-
 
 ### Faculty
 
