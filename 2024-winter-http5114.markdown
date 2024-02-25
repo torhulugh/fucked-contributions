@@ -4,9 +4,10 @@
 
 ### Students
 
-|                                          | Name          | Profile                               |
-| ---------------------------------------- | -----------   | ------------------------------------- |
-| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas   | [thomasadam83](students/thomasadam83) |
+|                                          | Name        | Profile                               |
+| ---------------------------------------- | ----------- | ------------------------------------- |
+| ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![aybehl](images/aybehl.png) | Ayushi Behl | [aybehl](students/ayushibehl.markdown) |
 | ![rutisha](images/Rutisha%20Patel.png)   | Rutisha Patel | [rutisha](students/rutisha.markdown)  |
 | ![irinabalanel](images/irinabalanel.jpg) | Irina Balanel | [irinabalanel](students/irinabalanel.markdown) |
 | ![anant770](images/anantchauhan.jpeg) | Anant Chauhan | [anant770](students/anant770git) |
