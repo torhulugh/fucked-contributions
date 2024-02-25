@@ -25,6 +25,7 @@
 | ![jinil2401](images/jinil(1).jpg) | Jinil Parekh | [jinil2401](students/jinil2401) |
 | ![Saran2445](images/Saran2445.jpg) | Saran Kanaga Sabapathy | [Saran2445](students/Saran2445) |
 | ![alejo2198](images/alejo2198.jpg) | Alejandro Castro | [alejo2198](students/alejo2198) |
+| ![kathanpatel29](/images/kathan.jpg) | Kathan Patel | [kathanpatel29](/students/kathanpatel29.markdown) |
 | ![jerryborgesjacob](images/jerryborgesjacob.jpg) | Jerry Borges Jacob | [jerryborgesjacob](students/jerryborgesjacob.markdown) |
 | ![emlycool](images/emlycool.jpg) | Joshua Moshood | [emlycool](students/emlycool) |
 | ![gtouf7](images/gtouf7.JPEG)      | Georgios Toufexis | [gtouf7](students/gtouf7) |
@@ -33,7 +34,6 @@
 | ![ozanls](images/ozanls.png) | Ozan Lago-Sereflioglu | [ozanls](students/ozanls.markdown) |
 | ![samvaarv](images/samvaarv.jpg) | Sumin Shrestha | [samvaarv](students/samvaarv) |
 | ![isiboreromoselejason](images/IsiborEromosele1) | Isibor Eromosele Jason | [isiboreromoselejason](students/isiboreromoselejason.markdown) |
-
 
 ### Faculty
 
