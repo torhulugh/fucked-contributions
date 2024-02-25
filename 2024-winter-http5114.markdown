@@ -11,6 +11,7 @@
 | ![aliveordinary](images/aliveordinary.png) | Navaneeth Krishnan | [aliveordinary](students/aliveordinary.markdown) |
 | ![neelimaakoju](images/neelimaakoju.png) | Neelima Akoju |[neelimaakoju](students/neelimaakoju.markdown) |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![evneetkaur19](images/evneetkaur19.jpg) | Evneet Kaur | [evneetkaur19](students/Evneetkaur19) |
 | ![thurstontran](images/thurstontran.png) | Thurston Tran | [thurstontran](students/thurstontran) |
 | ![encrypted-rose](images/encryptedrose.jpg) |Rosalia Sousa | [encrypted-rose](students/encryptedrose..markdown)|
 | ![soysauce4444](images/soysauce4444.png) | Youngin Choi | [soysauce4444](students/soysauce4444) |
