@@ -4,9 +4,11 @@
 
 ### Students
 
+
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![pavan1003](images/pavan_1003.png) | Pavan Mistry | [pavan1003](students/pavan1003) |
+| ![ritikamehta11](images/.jpg)            | Ritika Mehta | [ritikamehta11](students/ritikamehta11) |
 | ![anish9243](images/anish-9243.jpg) | Anish Patel | [anish9243](students/anish9243) |
 | ![aliveordinary](images/aliveordinary.png) | Navaneeth Krishnan | [aliveordinary](students/aliveordinary.markdown) |
 | ![neelimaakoju](images/neelimaakoju.png) | Neelima Akoju |[neelimaakoju](students/neelimaakoju.markdown) |
