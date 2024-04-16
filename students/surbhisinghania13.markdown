@@ -2,7 +2,7 @@
 
 ## Surbhi Singhania
 
-![SurbhiSInghania](../images/SurbhiSinghania13.jpeg)
+![SurbhiSInghania](../images/surbhisinghania13.jpeg)
 
 Full Stack Developer and Dancer. Previously employed as a Coding Instructor.
  

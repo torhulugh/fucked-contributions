@@ -1,5 +1,3 @@
-# resume
-Simple resume with markdown
 
 # Priyam Desai
 

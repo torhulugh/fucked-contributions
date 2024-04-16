@@ -7,7 +7,7 @@
 Currently a full-stack web development student at Humber College, I have experience creating dynamic web pages using technologies such as Javascript, HTML, CSS, PHP, C#, MERN stack, and SQL. I am looking forward to connecting with passionate individuals and expanding my knowledge/experience in this exciting field.
 
 Portfolio: [https://iamgaurabhishek.com/](https://iamgaurabhishek.com/)  
-LinkedIn: [iamgaurabhishek](https://https://www.linkedin.com/in/abhishek-gaur-316a88252/)  
+LinkedIn: [iamgaurabhishek](https://www.linkedin.com/in/abhishek-gaur-316a88252/)  
 GitHub: [iamgaurabhishek](https://github.com/iamgaurabhishek)  
 
 ### Projects

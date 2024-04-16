@@ -2,7 +2,7 @@
 
 ## Kaverappa K U
 
-![Kaverappa K U](../images/Kaverappa.png)
+![Kaverappa K U](../images/kaverappaku.png)
 
 Forward-thinking Software Engineer with background working productively in dynamic environments. Fluent in Python and Shell programming languages used to develop software. Proud team player focused on achieving project objectives with speed and accuracy.
 

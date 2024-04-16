@@ -1,7 +1,7 @@
 
 ## Pruthvirajsinh Solanki
 
-![Pruthvirajsin Solanki](../images/Pruthviraj7.jpg)
+![Pruthvirajsin Solanki](../images/pruthviraj7.jpg)
 
 Fullstack Web Developer. Also into Graphic Design.
 
@@ -13,5 +13,13 @@ GitHub: [Pruthviraj7](https://github.com/Pruthviraj7)
 
 | Project | |
 | - | - |
-| Tasks | https://tasks.brickmmo.com/ |
+| Tasks | [https://task.brickmoo.com/](https://task.brickmoo.com/) |
+
+[&#10132; Back to Class List](/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
 

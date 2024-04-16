@@ -2,7 +2,7 @@
 
 ## Abbas Vaziri
 
-![Abbas Vaziri](../images/abiasV.jpg)  
+![Abbas Vaziri](../images/abiasv.jpg)
 
 Student at Humber College learning Web Development.
 
