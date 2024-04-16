@@ -2,7 +2,7 @@
 
 ## Georgios Toufexis
 
-![Georgios Toufexis](../images/gtouf7)| Georgios Toufexis | [gtouf7](students/gtouf7) |
+![Georgios Toufexis](../images/gtouf7.JPEG)| Georgios Toufexis | [gtouf7](students/gtouf7) |
 
 I am a marketing graduate with a passion for coding!
 

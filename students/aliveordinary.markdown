@@ -15,6 +15,7 @@ Portfolio : https://aliveordinary.me
 
 | Project |     |
 | ------- | --- |
+| Tasks    | [https://tasks.brickmmo.com](https://tasks.brickmmo.com) |
 
 [&#10132; Back to Class List](/)
 
