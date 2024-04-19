@@ -7,6 +7,7 @@
 |                                          | Name        | Profile                               |
 | ---------------------------------------- | ----------- | ------------------------------------- |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![jaytee599](images/myimage.jpg) | Joel Tuffour| [jaytee599](students/jaytee599) |
 
 ### Faculty
 
