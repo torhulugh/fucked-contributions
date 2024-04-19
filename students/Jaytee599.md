@@ -2,7 +2,7 @@
 
 ## Joel Tuffour
 
-![Beatrice Tan](../images/SaloniP26.jpg)
+![Joel Tuffour](../images/myimage.jpg)
 
 Fullstack Web Developer.
 
