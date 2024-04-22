@@ -8,7 +8,7 @@ Web Developer Student at Humber College. Worked with React and Flutter frontends
 
 
 Portfolio: [WIP](#)  
-LinkedIn: [bliang1997](www.linkedin.com/in/bliang1997)  
+LinkedIn: [bliang1997](https://www.linkedin.com/in/bliang1997/)  
 GitHub: [bingjetli](https://github.com/bingjetli)  
 
 ### Projects

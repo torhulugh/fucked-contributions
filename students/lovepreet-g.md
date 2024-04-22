@@ -13,7 +13,7 @@ I'm a passionate web developer with a strong educational background in web devel
 
 | Project | |
 | - | - |
-|Task|https://tasks.brickmmo.com/|
+|Task| [https://task.brickmoo.com/](https://task.brickmoo.com/) |
 
 #### 📫 Get in Touch
 

@@ -8,13 +8,13 @@ Aspiring Full-stack developer. Like to be active and get my hands dirty, both in
 
 Portfolio: [Tasks: ](https://tasks.brickmmo.com/)  
 LinkedIn: [My Linkedin: ](https://www.linkedin.com/in/sion-lee-lnkdin/)
-GitHub: [My Github: ](https://github.com/AndrewJamesBarker)  
+GitHub: [My Github: ](https://github.com/sionara)  
 
 ### Projects
 
 | Project |
 | ---| --- |
-| Flow | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/)|
+| Flow | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
 | Tasks | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)   |
 
 [&#10132; Back to Class List](/)

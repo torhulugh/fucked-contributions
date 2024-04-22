@@ -2,7 +2,7 @@
 
 ## Suyash Kulkarni
 
-![Suyash Kulkarni](../images/Suyash0028.jpg)
+![Suyash Kulkarni](../images/suyash0028.jpg)
 
 Full stack web developer with hands on SharePoint, React js, TypeScript, PowerShell, Power Apps, Power Automate.
 
