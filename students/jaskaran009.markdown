@@ -9,9 +9,16 @@ GitHub: [GitHub](https://github.com/Jaskaran009)
 
 
 ## projects
-|Title  |  Description of project|
-|-------|------------------------|
-| 7 wonders of the world | A webpage about the 7 wonders of the world |
+
+| Title  |  Description of project |
+| ------- | ------------------------ |
+|  7 wonders of the world  |  A webpage about the 7 wonders of the world  |
 
  
+[&#10132; Back to Class List](/)
 
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>

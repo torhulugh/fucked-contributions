@@ -6,7 +6,7 @@
 
 Self-taught to this point. Formerly construction, sales and delivery. Working towards a second career in Full Stack Web Development.
 
-GitHub: [karscott6](https://github.com/karscott6)  
+GitHub: [karscott6](https://github.com/karscottcodes)  
 Stack Overflow: [karscott6](https://stackoverflow.com/users/22524549/karscott6)  
 
 ### Projects

@@ -42,6 +42,7 @@
 | ![alejo2198](images/alejo2198.png) | Alejandro Castro | [alejo2198](students/alejo2198) |
 | ![vincent1224](images/vincentchan1224.jpg) | Vincent Chan | [alejo2198](students/vincentchan1224) |
 | ![apentenk](images/apentenk.jpg) | Kwasi Apenteng | [apentenk](students/apentenk) |
+| ![ganga-suresh](images/ganga-suresh.jpeg) | Ganga Suresh | [ganga-suresh](students/ganga-suresh) |
 | ![lyeapp](images/lyea.jpg) | Lyea Palathuruthil Polachan | [lyeapp](students/lyeapp) |
 
 ### Faculty
