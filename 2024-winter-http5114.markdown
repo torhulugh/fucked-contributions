@@ -12,6 +12,7 @@
 | ![aliveordinary](images/aliveordinary.png) | Navaneeth Krishnan | [aliveordinary](students/aliveordinary.markdown) |
 | ![neelimaakoju](images/neelimaakoju.png) | Neelima Akoju |[neelimaakoju](students/neelimaakoju.markdown) |
 | ![thomasadam83](images/thomasadam83.jpg) | Adam Thomas | [thomasadam83](students/thomasadam83) |
+| ![jaytee599](images/myimage.jpg) | Joel Tuffour| [jaytee599](students/jaytee599) |
 | ![BlurryFarce](images/vaibhav.jpg) | Vaibhav Baria | [BlurryFarce](students/blurryfarce.md) |
 | ![aliqasim54321](images/aliqasim54321%20(1).jpg) | Ali Qasim Khundmiri Syed | [aliqasim54321](students/aliqasim54321) |
 | ![bhargav1997](images/bhargav1997.jpeg) | Bhargav Suthar | [bhargav1997](students/bhargav1997) |
