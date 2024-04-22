@@ -2,7 +2,7 @@
 
 ## Sumin Shrestha
 
-![Sumin Shrestha](../images/samvaarv.png)
+![Sumin Shrestha](../images/samvaarv.jpg)
 
 Web Developer who makes web apps when I'm bored.
 
