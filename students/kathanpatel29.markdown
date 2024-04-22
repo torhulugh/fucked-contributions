@@ -3,6 +3,7 @@
 ## Kathan Patel
 
 ![Kathan Patel](/images/kathan.jpg)
+
 I am Kathan Patel, Fullstack Web Developer
 🔭 I’m currently working as Swim Instructor at Felix Swim Schools Downtown, Toronto, Canada.
 🌱 I’m currently learning Web Development from Humber College, Toronto, Canada.

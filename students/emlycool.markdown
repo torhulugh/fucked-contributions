@@ -4,7 +4,7 @@
 
 ![Joshua Moshood](../images/emlycool.jpg)
 
-Im currently a student at humber web development program. I have enjoyed building apps with the following technologies PHP, js, Laravel, Vue.js, Docker.
+I am currently a student at humber for web development program. I  enjoy building apps with the following technologies PHP, js, Laravel, Vue.js, Docker.
 
 Portfolio: [https://github.com/emlycool](https://github.com/emlycool)  
 LinkedIn: [joshua-moshood](https://www.linkedin.com/in/joshua-moshood/)  

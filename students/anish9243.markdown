@@ -4,18 +4,19 @@
 
 ![Anish Patel](../images/anish-9243.jpg)
 
-I am Anish Patel. Currently i am in Web development in Humber college.
+I am Anish Patel. Currently I am in Web development in Humber college.
 
 Twitter: https://twitter.com/ANSpa2707
+
 LinkedIn: https://www.linkedin.com/in/anish1507/
-GitHub: https://github.com/anish9243
+GitHub: https://github.com/anish9243/
 Instagram: https://www.instagram.com/_im_anish__007/
 
 ### Projects
 
 | Project |                                                          |
 | ------- | -------------------------------------------------------- |
-| Taks    | [https://tasks.brickmmo.com](https://tasks.brickmmo.com) |
+| Tasks    | [https://tasks.brickmmo.com](https://tasks.brickmmo.com) |
 
 [&#10132; Back to Class List](/)
 

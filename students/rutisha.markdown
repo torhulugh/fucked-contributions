@@ -1,4 +1,4 @@
-# resume
+# Resume
 Simple resume with markdown
 
 # Rutisha Patel
