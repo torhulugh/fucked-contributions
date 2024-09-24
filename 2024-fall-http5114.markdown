@@ -14,7 +14,7 @@
 | ![Gabi Catalan](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
 | ![Heather Boden](/images/heatherfeather-code.jpeg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
 | ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [moodevarts](students/moodevarts.md) |
-
+| ![Shashank Laur] (images/shashanklaur.jpeg) | Shashank Laur | [shashanklaur](students/shashank.md)|
 ### Faculty
 
 |                                       | Name        | Profile                          |
