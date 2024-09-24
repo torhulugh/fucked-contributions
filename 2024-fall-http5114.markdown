@@ -4,7 +4,8 @@
 
 ### Students
 
-|     | Name | Profile |
+|     | Name | Profile |  
+| --- | ---- | ------- |
 | ![Kexin Sun](images/kexinsun82.jpg) | Kexin Sun | [kexinsun82](students/kexinsun82.markdown) |
 
 ### Faculty
