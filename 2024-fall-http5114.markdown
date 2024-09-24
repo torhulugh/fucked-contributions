@@ -4,10 +4,9 @@
 
 ### Students
 
-|                                       | Name        | Profile                          |
+|  ![Sonia Serrano]                                     | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-
+| ![Sonia Serrano](./images/sonia02020202.jpg) | Adam Thomas | [Sonia S](https://github.com/sonia02020202) |
 ### Faculty
 
 |                                       | Name        | Profile                          |
