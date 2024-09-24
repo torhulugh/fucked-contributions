@@ -2,12 +2,12 @@
 
 ## Mohith Krishnamoorthy Jeganathan
 
-![Mohith](../images/mohithjegan.jpg)
+![MohithJegan](../images/mohithjegan.jpg)
 
 I’m currently studying Full-Stack Web Development at Humber College and have hands-on experience as a front-end developer, creating websites and web applications. My specialties include HTML, CSS, and JavaScript. I’m eager to connect with other passionate individuals to enhance my knowledge and experience in this exciting field.
 
-LinkedIn: [Mohith](www.linkedin.com/in/mohith-krishnamoorthy-j-aa7668150)  
-GitHub: [Mohith](https://github.com/MohithJegan)
+LinkedIn: [MohithJegan](www.linkedin.com/in/mohith-krishnamoorthy-j-aa7668150)  
+GitHub: [MohithJegan](https://github.com/MohithJegan)
 
 ### Projects
 
