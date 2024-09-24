@@ -6,7 +6,7 @@
 
 |     | Name | Profile |
 | --- | ---- | ------- |
-
+|![Tashrif Radin Ali](./images/ramdao.jpg)|Tashrif Radin Ali |[GitHub](https://github.com/Ramdao)|
 ### Faculty
 
 |                                       | Name        | Profile                          |
