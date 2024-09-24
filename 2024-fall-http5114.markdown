@@ -6,12 +6,21 @@
 
 |  ![Sonia Serrano]                                     | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
+
 | ![Sonia Serrano](./images/sonia02020202.jpg) | Adam Thomas | [Sonia S](https://github.com/sonia02020202) |
+| ![Adam Thomas](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
+| ![Genevieve Awa](images/vee.jpg)  | Genevieve Awa | [awsactivators](https://awsactivators.github.io) | 
+| ![Yik Kan Sze](images/ken-yksze.jpg)  | Yik Kan Sze | [ken-yksze](students/ken-yksze)  |               
+| ![Gabi Catalan](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
+| ![Heather Boden](/images/heatherfeather-code.jpeg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
+
+
 ### Faculty
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| 
 
 [&#10132; Back to Class List](/)
 
