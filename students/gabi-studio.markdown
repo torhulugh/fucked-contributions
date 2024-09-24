@@ -2,7 +2,7 @@
 
 ## Gabi Catalan
 
-![Abraham Awotunde](../images/gabi-studio.png)
+![Gabi Catalan](../images/gabi-studio.png)
 
 I'm a dedicated full-stack web development student at Humber College, with a strong foundation in creating dynamic web applications. My skill set includes proficiency in JavaScript, HTML, CSS, PHP, C#, and I've worked extensively with the MERN (MongoDB, Express.js, React, Node.js) stack and SQL. I'm enthusiastic about connecting with like-minded individuals who share my passion for web development and eager to further expand my knowledge and expertise in this dynamic and exciting field
 
