@@ -1,17 +1,22 @@
-I am a software engineering graduate from Sheridan . Currently, I am learning Web Development at Humber. I like developing web sites and learning new skills.
+# Ayushi Behl
 
-<img alt ="Amanpreet Kaur" src="../images/amankaur1011.jpg" height= "80px" width="80px">
+![Ayushi Behl](../images/aybehl.png)
 
-## Links
+## About me
 
-LinkedIn: [Amanpreet Kaur](https://www.linkedin.com/in/amanpreet-kaur-3045901b4/)
-GitHub: [AmanKaur1011](https://github.com/AmanKaur1011)
+> I am a backend developer with 5 years of work experience.  
+> I am currently learning Web Developer from Humber College.
 
-### Projects
+## My Projects
 
-| Project |                                                            |
-| ------- | ---------------------------------------------------------- |
-| Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/) |
+| Project Name | Project Link                                               |
+| ------------ | ---------------------------------------------------------- |
+| Tasks        | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/) |
+
+## Contact Info
+
+- [Linkedln Profile](https://www.linkedin.com/in/ayushi-behl-51a2bb163/)
+- [Gihub Profile](https://github.com/aybehl)
 
 [&#10132; Back to Class List](/)
 
