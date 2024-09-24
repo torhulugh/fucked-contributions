@@ -7,8 +7,8 @@
 Learning Web Development in HUMBER college 2024 Fall student
 
 
-[LinkedIn]https://www.linkedin.com/in/peiyu-han-762337233/
-[GitHub]https://github.com/fish1219705
+![LinkedIn]https://www.linkedin.com/in/peiyu-han-762337233/
+![GitHub]https://github.com/fish1219705
 
 ### Projects
 
