@@ -7,7 +7,7 @@
 |                                       | Name         | Profile                                   |
 | ------------------------------------- | ------------ | ----------------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas  | [codeadamca](faculty/codeadamca)          |
-| ![Audrey Chung](images/Audreycmk.png) | Audrey Chung | [Audreycmk](https://github.com/Audreycmk) |
+| ![Audrey Chung](images/Audreycmk.jpg) | Audrey Chung | [Audreycmk](https://github.com/Audreycmk) |
 
 ### Faculty
 
