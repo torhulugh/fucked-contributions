@@ -4,9 +4,9 @@
 
 ### Students
 
-|     | Name | Profile |
-| --- | ---- | ------- |
-
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
+| ![Yik Kan Sze](images/ken-yksze.jpg)  | Yik Kan Sze | [ken-yksze](students/ken-yksze)  |               |
 ### Faculty
 
 |                                       | Name        | Profile                          |
