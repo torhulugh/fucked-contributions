@@ -1,6 +1,4 @@
-<style>@import url("//readme.codeadam.ca/readme.css");</style>
-
-## Milin Vaniyawala
+# Hima Agarwal
 
 <img src="../images/moodevarts.png" alt="hima's image" width="80" height="80">
 
@@ -10,7 +8,7 @@ Any problem can be solved with a Web App.
 LinkedIn: [Hima Agarwal](https://www.linkedin.com/in/himanshu-agarwal-470084267/)  
 GitHub: [MooDevArts](https://github.com/MooDevArts)
 
-### Projects
+## Projects
 
 | Project      |                                                |
 | ------------ | ---------------------------------------------- |
