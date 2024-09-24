@@ -7,6 +7,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Tianrui Zhu](images/codecary80.jpg) | Tianrui Zhu | [codecary80](https://github.com/CodeCary80/Markdown.Portfolio) |
 
 ### Faculty
 
