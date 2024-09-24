@@ -7,7 +7,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-| ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [Hima](students/moo-dev-arts.md) |
+| ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [moodevarts](students/moodevarts.md) |
 
 ### Faculty
 
