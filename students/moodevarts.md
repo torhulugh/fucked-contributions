@@ -2,7 +2,7 @@
 
 <img style="object-fit: cover;" src="../images/moodevarts.png" alt="hima's image" width="80" height="80">
 
-Quick learner in this fast-changing tech domain.
+Quick learner in this fast-changing tech domain.  
 Any problem can be solved with a Web App.
 
 LinkedIn: [Hima Agarwal](https://www.linkedin.com/in/himanshu-agarwal-470084267/)  
