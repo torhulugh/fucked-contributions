@@ -1,6 +1,6 @@
 # Hima Agarwal
 
-<img src="../images/moodevarts.png" alt="hima's image" width="80" height="80">
+<img style="object-fit: cover;" src="../images/moodevarts.png" alt="hima's image" width="80" height="80">
 
 Quick learner in this fast-changing tech domain.
 Any problem can be solved with a Web App.
@@ -12,8 +12,7 @@ GitHub: [MooDevArts](https://github.com/MooDevArts)
 
 | Project      |                                                |
 | ------------ | ---------------------------------------------- |
-| Jane Aerospace    | [Jane Aerospace ](https://janeaerospace.co.in/)          |
-| Flibbr | [Flibbr](https://flibbrconsulting.com/) |
+| Tasks    | [Tasks ](https://tasks.brickmmo.com/)          |
 
 [&#10132; Back to Class List](/)
 
