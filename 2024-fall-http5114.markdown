@@ -4,9 +4,10 @@
 
 ### Students
 
-|                                       | Name        | Profile                          |
-| ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+|                                       | Name         | Profile                                   |
+| ------------------------------------- | ------------ | ----------------------------------------- |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas  | [codeadamca](faculty/codeadamca)          |
+| ![Audrey Chung](images/Audreycmk.png) | Audrey Chung | [Audreycmk](https://github.com/Audreycmk) |
 
 ### Faculty
 
