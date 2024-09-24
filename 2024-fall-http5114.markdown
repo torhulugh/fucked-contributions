@@ -4,8 +4,9 @@
 
 ### Students
 
-|     | Name | Profile |
-| --- | ---- | ------- |
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
 
 ### Faculty
 
