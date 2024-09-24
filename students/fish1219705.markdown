@@ -12,7 +12,7 @@ Learning Web Development in HUMBER college 2024 Fall student
 
 ### Projects
 
-| Project | Link                                                    |
+| Project | Link                                                     |
 | ------- | -------------------------------------------------------- |
 | Task    | [https://tasks.brickmmo.com](https://tasks.brickmmo.com) |
 
