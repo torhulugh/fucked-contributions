@@ -2,7 +2,7 @@
 
 ## Isha Shah
 
-![Isha Shah](Isha003-hub.jpg)
+![Isha Shah](../images/Isha003-hub.jpg)
 
 Self-taught to this point. Formerly construction, sales and delivery. Working towards a second career in Full Stack Web Development.
 
