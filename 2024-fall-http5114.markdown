@@ -7,7 +7,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-|![Heather Boden](/images/heatherfeather-code.jpg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
+|![Heather Boden](/images/heatherfeather-code.jpg) | Heather Boden | [heatherfeather-code](https://heatherfeather-code.github.io/markdown-portfolio/)|
 
 ### Faculty
 
