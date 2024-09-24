@@ -7,6 +7,11 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Adam Thomas](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
+| ![Genevieve Awa](images/vee.jpg)  | Genevieve Awa | [awsactivators](https://awsactivators.github.io) | 
+| ![Yik Kan Sze](images/ken-yksze.jpg)  | Yik Kan Sze | [ken-yksze](students/ken-yksze)  |               
+| ![Gabi Catalan](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
+| ![Heather Boden](/images/heatherfeather-code.jpeg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
 | ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [moodevarts](students/moodevarts.md) |
 
 ### Faculty
@@ -14,6 +19,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| 
 
 [&#10132; Back to Class List](/)
 
