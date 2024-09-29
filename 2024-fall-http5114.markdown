@@ -4,21 +4,17 @@
 
 ### Students
 
-|     | Name | Profile |
-| --- | ---- | ------- |
-|![Tashrif Radin Ali](./images/ramdao.jpg)|Tashrif Radin Ali |[GitHub](https://github.com/Ramdao)|
-
-|                                       | Name        | Profile                          |
-| ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-
+|                                      | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- 
+| ![Adam Thomas](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
+| ![Tashrif Radin Ali](./images/ramdao.jpg)|Tashrif Radin Ali |[GitHub](https://github.com/Ramdao)|
 | ![Genevieve Awa](images/awsactivators.jpg)  | Genevieve Awa | [awsactivators](https://awsactivators.github.io) | 
 | ![Yik Kan Sze](images/ken-yksze.jpg)  | Yik Kan Sze | [ken-yksze](students/ken-yksze)  |               |
 | ![Wanchan Lin](images/wanchanlin.png) | Wanchan lin | [wanchanlin](student/wanchanlin) |
 | ![Gabi Catalan](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
 | ![Heather Boden](/images/heatherfeather-code.jpeg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
 | ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [moodevarts](students/moodevarts.md) |
-
+| ![Sonia Serrano](./images/sonia02020202.jpg) | Adam Thomas | [Sonia S](https://github.com/sonia02020202) |
 
 ### Faculty
 
