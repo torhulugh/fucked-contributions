@@ -4,9 +4,10 @@
 
 ### Students
 
-|                                       | Name        | Profile                          |
-| ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+|                                       | Name        | Profile                                  |
+| ------------------------------------- | ----------- | ---------------------------------------- |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca)         |
+| ![Mohith](images/mohithjegan.jpg)     | Mohith      | [mohithjegan](students/mohithjegan.markdown) |
 | ![Jerad Beauregard](./images/JeradBeauregard.jpg)| Jerad Beauregard | [JeradBeauregard](https://github.com/JeradBeauregard) |
 | ![TommieTKY](images/tommietky.jpg)    | Kit Ying Tong | [tommietky](students/tommietky)  |
 | ![Tianrui Zhu](images/codecary80.jpg) | Tianrui Zhu | [codecary80](https://github.com/CodeCary80/Markdown.Portfolio) |
@@ -24,7 +25,6 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-| 
 
 [&#10132; Back to Class List](/)
 
