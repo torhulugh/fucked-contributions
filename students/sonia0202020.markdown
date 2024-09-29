@@ -1,0 +1,13 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
+## Sonia S
+
+![Sonia Serrano](../images/sonia02020202.jpg)
+
+I enjoy learning about web development!!
+
+Portfolio: [Tasks: ](https://tasks.brickmmo.com/)  
+stackoverflow: [My Linkedin: ]https://stackoverflow.com/users/27185091/sonia-s
+GitHub: [My Github:] https://github.com/sonia02020202/sonia02020202/tree/main  
+
+
