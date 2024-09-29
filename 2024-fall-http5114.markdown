@@ -21,12 +21,14 @@
 | ![Heather Boden](/images/heatherfeather-code.jpeg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
 | ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [moodevarts](students/moodevarts.md) |
 | ![Sonia Serrano](./images/sonia02020202.jpg) | Adam Thomas | [Sonia S](https://github.com/sonia02020202) |
+| ![Kexin Sun](images/kexinsun82.jpg) | Kexin Sun | [kexinsun82](students/kexinsun82.markdown) |
 
 ### Faculty
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+
 
 [&#10132; Back to Class List](/)
 
