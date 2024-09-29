@@ -4,6 +4,10 @@
 
 ### Students
 
+|     | Name | Profile |
+| --- | ---- | ------- |
+|![Tashrif Radin Ali](./images/ramdao.jpg)|Tashrif Radin Ali |[GitHub](https://github.com/Ramdao)|
+
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
@@ -14,6 +18,7 @@
 | ![Gabi Catalan](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
 | ![Heather Boden](/images/heatherfeather-code.jpeg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
 | ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [moodevarts](students/moodevarts.md) |
+
 
 ### Faculty
 
