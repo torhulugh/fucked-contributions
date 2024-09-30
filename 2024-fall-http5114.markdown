@@ -14,6 +14,7 @@
 | ![Gabi Catalan](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
 | ![Heather Boden](/images/heatherfeather-code.jpeg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
 | ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [moodevarts](students/moodevarts.md) |
+| ![Srivignesh Kavle Sathyanarayanan](images/srivignesh95.jpeg) | Srivignesh Kavle Sathyanarayanan | [moodevarts](students/srivignesh95.markdown) |
 
 ### Faculty
 
