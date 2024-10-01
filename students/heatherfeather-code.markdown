@@ -2,7 +2,7 @@
 
 ## Heather Boden
 
-![Heather Boden](../images/heatherfeather-code.jpeg)
+![Heather Boden](../images/heatherfeather-code.jpg)
 
 I have my Bachelor of Arts in Art and Art History (focusing on design). Currently studying Web Development at Humber Polytechnic. 
 
