@@ -2,7 +2,7 @@
 
 ## Genevieve Awa
 
-![Genevieve Awa](../images/vee.jpg)
+![Genevieve Awa](../images/awsactivators.jpg)
 
 I am currently a student at humber for web development program. I  enjoy building apps with the following technologies HTML, CSS, PHP, js, Docker, etc.
 

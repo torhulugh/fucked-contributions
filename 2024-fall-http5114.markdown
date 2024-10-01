@@ -4,24 +4,34 @@
 
 ### Students
 
-|                                       | Name        | Profile                          |
-| ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-| ![Joyce Lin](images/joycelin.png) | Joyce lin | [codeadamca](student/codeadamca) |
-| ![Gabi Catalan](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
-| ![Genevieve Awa](images/vee.jpg)  | Genevieve Awa | [awsactivators](https://awsactivators.github.io) | 
-| ![Yik Kan Sze](images/ken-yksze.jpg)  | Yik Kan Sze | [ken-yksze](students/ken-yksze)  |               
+|                                       | Name         | Profile                                   |
+| ------------------------------------- | ------------ | ----------------------------------------- |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas  | [codeadamca](faculty/codeadamca)          |
+| ![Audrey Chung](images/Audreycmk.jpg) | Audrey Chung | [Audreycmk](https://github.com/Audreycmk) |
+| ![Adil Surve](Adil Avatar.jpg) | Adil Surve | [Daiyegamer](https://github.com/Daiyegamer/Daiyegamer.github.io) |
+| ![Mohith](images/mohithjegan.jpg)     | Mohith      | [mohithjegan](students/mohithjegan.markdown) |
+| ![Jerad Beauregard](./images/JeradBeauregard.jpg)| Jerad Beauregard | [JeradBeauregard](https://github.com/JeradBeauregard) |
+| ![TommieTKY](images/tommietky.jpg)    | Kit Ying Tong | [tommietky](students/tommietky)  |
+| ![Tianrui Zhu](images/codecary80.jpg) | Tianrui Zhu | [codecary80](https://github.com/CodeCary80/Markdown.Portfolio) |
+| ![Tashrif Radin Ali](./images/ramdao.jpg)|Tashrif Radin Ali |[GitHub](https://github.com/Ramdao)|
+| ![Genevieve Awa](images/awsactivators.jpg)  | Genevieve Awa | [awsactivators](https://awsactivators.github.io) | 
+| ![Heather Boden](/images/heatherfeather-code.jpg) | Heather Boden | [heatherfeather-code](https://heatherfeather-code.github.io/markdown-portfolio/)|
+| ![Yik Kan Sze](images/ken-yksze.jpg)  | Yik Kan Sze | [ken-yksze](students/ken-yksze)  |               |
+| ![Wanchan Lin](images/wanchanlin.png) | Wanchan lin | [wanchanlin](student/wanchanlin) |
 | ![Gabi Catalan](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
 | ![Heather Boden](/images/heatherfeather-code.jpeg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
 | ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [moodevarts](students/moodevarts.md) |
 | ![Srivignesh Kavle Sathyanarayanan](images/srivignesh95.jpeg) | Srivignesh Kavle Sathyanarayanan | [moodevarts](students/srivignesh95.markdown) |
+| ![Shashank Laur] (images/shashanklaur.jpeg) | Shashank Laur | [shashanklaur](students/shashank.md)|
+| ![Sonia Serrano](./images/sonia02020202.jpg) | Adam Thomas | [Sonia S](https://github.com/sonia02020202) |
+| ![Kexin Sun](images/kexinsun82.jpg) | Kexin Sun | [kexinsun82](students/kexinsun82.markdown) |
 
 ### Faculty
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-| 
+
 
 [&#10132; Back to Class List](/)
 
