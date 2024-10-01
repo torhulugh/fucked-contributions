@@ -21,6 +21,7 @@
 | ![Gabi Catalan](images/gabi-studio.png) | Gabi Catalan | [gabi-studio](students/gabi-studio.markdown) |
 | ![Heather Boden](/images/heatherfeather-code.jpeg) | Heather Boden | (https://heatherfeather-code.github.io/markdown-portfolio/)|
 | ![Hima Agarwal](images/moodevarts.png) | Hima Agarwal | [moodevarts](students/moodevarts.md) |
+| ![Shashank Laur] (images/shashanklaur.jpeg) | Shashank Laur | [shashanklaur](students/shashank.md)|
 | ![Sonia Serrano](./images/sonia02020202.jpg) | Adam Thomas | [Sonia S](https://github.com/sonia02020202) |
 | ![Kexin Sun](images/kexinsun82.jpg) | Kexin Sun | [kexinsun82](students/kexinsun82.markdown) |
 
