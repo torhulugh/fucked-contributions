@@ -2,19 +2,19 @@
 
 ## Wan-Chan Lin
 
-![Wanchan Lin](../images/joycelin.png)
+![Wanchan Lin](../images/wanchanlin.png)
 
 Web Developer + Desig in Toronto, entering the world of programming.
 
-Portfolio: [portfolio](https://wanchanlin.webflow.io/)  
-LinkedIn: [Wan-Chan](https://www.linkedin.com/in/wanchanlin/)  
-GitHub: [unlimitedTing](https://github.com/wanchanlin)  
+Portfolio: [wanchanlin](https://wanchanlin.webflow.io/)  
+LinkedIn: [wanchanlin](https://www.linkedin.com/in/wanchanlin/)  
+GitHub: [Wanchanlin](https://github.com/wanchanlin)  
 
 ### Projects
 
-| Project | |
+|Projects |
 | - | - |
-| GPS | [https://brickmmo.github.io/gps-about/](https://brickmmo.github.io/gps-about/) |
+| City Cafe | [https://wanchanlin.github.io/city-cafe/](https://wanchanlin.github.io/city-cafe/) |
 
 [&#10132; Back to Class List](/)
 
