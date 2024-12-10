@@ -28,6 +28,8 @@
 | ![Kexin Sun](images/kexinsun82.jpg) | Kexin Sun | [kexinsun82](students/kexinsun82.markdown) |
 | ![Peiyu Han](images/fish1219705.jpg)  | Peiyu Han   | [fish1219705](students/fish1219705.markdown)|
 | ![Nitish Sharma](images/nitish-542.jpg)  | Nitish Sharma   | [Nitish-542](students/nitish-542.markdown)|
+| ![Rohit Kumar](images/Coderohitk.jpg)  | Rohit Kumar   | [Coderohitk](students/Coderohitk.md)|
+| ![Janine Intrakul](images/janine-resized.png)  | Janine Intrakul   | [Janineint](students/janineint.markdown)|
 
 ### Faculty
 
