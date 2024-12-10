@@ -1,8 +1,8 @@
 <style>@import url(//readme.codeadam.ca/readme.css);</style>
 
-## Peiyu Han
+## Rohit Kumar
 
-![Rohit Kumar](../images/Rohit.jpg)
+![Rohit Kumar](../images/Coderohitk.jpg)
 
 Learning Web Development in HUMBER college 2024 Fall student
 
