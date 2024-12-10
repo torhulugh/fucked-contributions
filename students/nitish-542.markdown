@@ -2,7 +2,7 @@
 
 ## Nitish Sharma
 
-![Peiyu Han](../images/nitish-542.jpg)
+![Nitish Sharma](../images/nitish-542.jpg)
 
 Learning Web Development in HUMBER college 2024 Fall student
 
