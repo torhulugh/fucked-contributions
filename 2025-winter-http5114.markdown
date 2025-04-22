@@ -9,6 +9,7 @@ Change added by original!
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Tor Hulugh](images/torhulugh.png) | Tor Hulugh | [torhulugh](students/torhulugh) |
 
 
 ### Faculty
